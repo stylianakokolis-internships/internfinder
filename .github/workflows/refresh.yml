@@ -1,0 +1,77 @@
+name: Daily refresh & deploy
+
+on:
+  schedule:
+    # GitHub cron is UTC. 12:05 UTC = 8:05 AM EDT (summer), 13:05 UTC = 8:05 AM EST (winter).
+    # scripts/should-run.mjs lets only the one that lands at 8 AM Eastern do the refresh.
+    - cron: '5 12 * * *'
+    - cron: '5 13 * * *'
+  workflow_dispatch: {}          # "Run workflow" button for a manual refresh
+  push:
+    branches: [main]
+    paths-ignore: ['site/data/**', 'data/**']   # code/config changes redeploy + refresh
+
+permissions:
+  contents: write   # commit the refreshed data
+  pages: write      # publish the site
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      ran: ${{ steps.gate.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Is it 8 AM Eastern (and not yet refreshed today)?
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "run=$(node scripts/should-run.mjs)" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch live listings
+        if: steps.gate.outputs.run == 'true'
+        run: node scripts/refresh.mjs
+
+      - name: Save results to the repo
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "internship-finder-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Daily refresh $(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z')"
+            git push
+          fi
+
+      - name: Package site
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: refresh
+    if: needs.refresh.outputs.ran == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

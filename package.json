@@ -1,0 +1,16 @@
+{
+  "name": "internship-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal internship finder: NJ / Philadelphia / NYC marketing, social, brand and sales internships, refreshed daily.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "refresh": "NODE_USE_ENV_PROXY=1 NODE_NO_WARNINGS=1 node scripts/refresh.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test test/*.test.mjs",
+    "verify": "node test/e2e-verify.cjs"
+  }
+}

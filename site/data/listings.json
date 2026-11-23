@@ -1,0 +1,2111 @@
+{
+ "schemaVersion": 1,
+ "lastSuccessfulRefresh": "2026-11-23T21:55:46.874Z",
+ "lastRunStartedAt": "2026-11-23T21:55:24.823Z",
+ "sourcesOk": 133,
+ "sourcesTotal": 133,
+ "config": {
+  "roleSections": [
+   "Marketing",
+   "Social Media",
+   "Brand Marketing",
+   "Sales"
+  ],
+  "industryFilters": [
+   "Beauty",
+   "Fashion",
+   "Banking & Financial Services",
+   "Agencies",
+   "Entertainment"
+  ],
+  "regions": [
+   {
+    "id": "nyc",
+    "label": "New York City"
+   },
+   {
+    "id": "philadelphia",
+    "label": "Philadelphia, PA"
+   },
+   {
+    "id": "nj",
+    "label": "New Jersey"
+   }
+  ]
+ },
+ "sources": {
+  "greenhouse:glossier": {
+   "employer": "Glossier",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 18,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:soldejaneiro": {
+   "employer": "Sol de Janeiro",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 46,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:supergoop": {
+   "employer": "Supergoop!",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 6,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:harrys": {
+   "employer": "Harry's",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 14,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:billie": {
+   "employer": "Billie",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 1,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:renttherunway": {
+   "employer": "Rent the Runway",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 24,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:reformation": {
+   "employer": "Reformation",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 144,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:everlane": {
+   "employer": "Everlane",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 31,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:aimeleondore": {
+   "employer": "Aimé Leon Dore",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 11,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:veronicabeard": {
+   "employer": "Veronica Beard",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 73,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:thirdlove": {
+   "employer": "ThirdLove",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 14,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:cuyana": {
+   "employer": "Cuyana",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 2,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:mejuri": {
+   "employer": "Mejuri",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 177,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:baublebar": {
+   "employer": "BaubleBar",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 10,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:rebag": {
+   "employer": "Rebag",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 11,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:stockx": {
+   "employer": "StockX",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 28,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:aloyoga": {
+   "employer": "Alo Yoga",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 723,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:businessoffashion": {
+   "employer": "The Business of Fashion",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 7,
+   "matched": 0,
+   "error": null
+  },
+  "lever:goodamerican": {
+   "employer": "Good American",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 6,
+   "matched": 0,
+   "error": null
+  },
+  "lever:vestiairecollective": {
+   "employer": "Vestiaire Collective",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 15,
+   "matched": 0,
+   "error": null
+  },
+  "lever:hypebeast": {
+   "employer": "Hypebeast",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 22,
+   "matched": 1,
+   "error": null
+  },
+  "ashby:farfetch": {
+   "employer": "FARFETCH",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 43,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:poshmark": {
+   "employer": "Poshmark",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 21,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:robinhood": {
+   "employer": "Robinhood",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 160,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:stripe": {
+   "employer": "Stripe",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 770,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:brex": {
+   "employer": "Brex",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 259,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:affirm": {
+   "employer": "Affirm",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 218,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:chime": {
+   "employer": "Chime",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 83,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:sofi": {
+   "employer": "SoFi",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 55,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:betterment": {
+   "employer": "Betterment",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 25,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:point72": {
+   "employer": "Point72",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 201,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:bridgewater89": {
+   "employer": "Bridgewater Associates",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 16,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:schonfeld": {
+   "employer": "Schonfeld",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 65,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:gemini": {
+   "employer": "Gemini",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 26,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:galaxydigitalservices": {
+   "employer": "Galaxy",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 57,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:fiveringsllc": {
+   "employer": "Five Rings",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 21,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:grahamcapitalmanagement": {
+   "employer": "Graham Capital Management",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 13,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:mercury": {
+   "employer": "Mercury",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 69,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:payoneer": {
+   "employer": "Payoneer",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 100,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:aqr": {
+   "employer": "AQR Capital Management",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 43,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:janestreet": {
+   "employer": "Jane Street",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 216,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:clearstreet": {
+   "employer": "Clear Street",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 33,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:carta": {
+   "employer": "Carta",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 80,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:public": {
+   "employer": "Public.com",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 4,
+   "matched": 0,
+   "error": null
+  },
+  "lever:wealthfront": {
+   "employer": "Wealthfront",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 20,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:ramp": {
+   "employer": "Ramp",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 181,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:plaid": {
+   "employer": "Plaid",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 148,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:paxos": {
+   "employer": "Paxos",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 25,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:acorns": {
+   "employer": "Acorns",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 8,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:nerdwallet": {
+   "employer": "NerdWallet",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 27,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:vaynermedia": {
+   "employer": "VaynerMedia",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 97,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:codeandtheory": {
+   "employer": "Code and Theory",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 44,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:hugeinc": {
+   "employer": "Huge",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 13,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:rga": {
+   "employer": "R/GA",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 13,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:monks": {
+   "employer": "Monks",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 324,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:dept": {
+   "employer": "DEPT",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 202,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:webershandwick": {
+   "employer": "Weber Shandwick",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 21,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:wpp": {
+   "employer": "WPP",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 209,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:interbrand": {
+   "employer": "Interbrand",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 17,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:fleishmanhillard": {
+   "employer": "FleishmanHillard",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 2,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:prophet": {
+   "employer": "Prophet",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 15,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:landor": {
+   "employer": "Landor",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 57,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:akqa": {
+   "employer": "AKQA",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 46,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:rapp": {
+   "employer": "RAPP",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 7,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:5wpr": {
+   "employer": "5WPR",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 5,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:berlinrosen": {
+   "employer": "BerlinRosen",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 15,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:golin": {
+   "employer": "Golin",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 5,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:mbooth": {
+   "employer": "M Booth",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 10,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:octagon": {
+   "employer": "Octagon",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 5,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:wk": {
+   "employer": "Wieden+Kennedy",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 15,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:powerdigitalmarketing": {
+   "employer": "Power Digital",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 231,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:whalar": {
+   "employer": "Whalar",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 10,
+   "matched": 0,
+   "error": null
+  },
+  "lever:ekimetrics": {
+   "employer": "Ekimetrics",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 29,
+   "matched": 0,
+   "error": null
+  },
+  "lever:anomaly": {
+   "employer": "Anomaly",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 2,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:jellyfish": {
+   "employer": "Jellyfish",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 5,
+   "matched": 0,
+   "error": null
+  },
+  "smartrecruiters:NBCUniversal3": {
+   "employer": "NBCUniversal",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 527,
+   "matched": 10,
+   "error": null
+  },
+  "greenhouse:thenewyorktimes": {
+   "employer": "The New York Times",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 118,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:voxmedia": {
+   "employer": "Vox Media",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 21,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:buzzfeed": {
+   "employer": "BuzzFeed",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 4,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:a24": {
+   "employer": "A24",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 10,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:insider": {
+   "employer": "Insider",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 6,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:hearst": {
+   "employer": "Hearst",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 396,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:pmc": {
+   "employer": "Penske Media",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 24,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:axios": {
+   "employer": "Axios",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 29,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:barstoolsports": {
+   "employer": "Barstool Sports",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 5,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:seatgeek": {
+   "employer": "SeatGeek",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 34,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:roku": {
+   "employer": "Roku",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 93,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:fubotv": {
+   "employer": "Fubo",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 6,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:roblox": {
+   "employer": "Roblox",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 257,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:epicgames": {
+   "employer": "Epic Games",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 134,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:riotgames": {
+   "employer": "Riot Games",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 204,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:taketwo": {
+   "employer": "Take-Two Interactive",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 30,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:fanduel": {
+   "employer": "FanDuel",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 105,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:feverup": {
+   "employer": "Fever",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 572,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:philadelphiaeagles": {
+   "employer": "Philadelphia Eagles",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 1,
+   "matched": 0,
+   "error": null
+  },
+  "lever:spotify": {
+   "employer": "Spotify",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 88,
+   "matched": 0,
+   "error": null
+  },
+  "lever:Complex": {
+   "employer": "Complex",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 30,
+   "matched": 0,
+   "error": null
+  },
+  "lever:theathletic": {
+   "employer": "The Athletic",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 11,
+   "matched": 0,
+   "error": null
+  },
+  "lever:morningbrew": {
+   "employer": "Morning Brew",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 8,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:patreon": {
+   "employer": "Patreon",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 21,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:substack": {
+   "employer": "Substack",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 20,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:sothebys": {
+   "employer": "Sotheby's",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 71,
+   "matched": 1,
+   "error": null
+  },
+  "greenhouse:mongodb": {
+   "employer": "MongoDB",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 421,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:datadog": {
+   "employer": "Datadog",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 384,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:braze": {
+   "employer": "Braze",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 355,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:attentive": {
+   "employer": "Attentive",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 30,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:klaviyo": {
+   "employer": "Klaviyo",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 122,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:justworks": {
+   "employer": "Justworks",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 102,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:yext": {
+   "employer": "Yext",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 32,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:squarespace": {
+   "employer": "Squarespace",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 20,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:pinterest": {
+   "employer": "Pinterest",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 171,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:reddit": {
+   "employer": "Reddit",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 147,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:discord": {
+   "employer": "Discord",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 29,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:figma": {
+   "employer": "Figma",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 148,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:duolingo": {
+   "employer": "Duolingo",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 53,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:later": {
+   "employer": "Later",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 33,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:ziprecruiter": {
+   "employer": "ZipRecruiter",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 55,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:airbnb": {
+   "employer": "Airbnb",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 199,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:zocdoc": {
+   "employer": "Zocdoc",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 65,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:oscar": {
+   "employer": "Oscar Health",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 179,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:flatironhealth": {
+   "employer": "Flatiron Health",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 22,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:hellofresh": {
+   "employer": "HelloFresh",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 371,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:sweetgreen": {
+   "employer": "Sweetgreen",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 73,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:olipop": {
+   "employer": "Olipop",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 10,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:misfitsmarket": {
+   "employer": "Misfits Market",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 46,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:instacart": {
+   "employer": "Instacart",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 95,
+   "matched": 0,
+   "error": null
+  },
+  "greenhouse:peloton": {
+   "employer": "Peloton",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 45,
+   "matched": 0,
+   "error": null
+  },
+  "smartrecruiters:Equinox": {
+   "employer": "Equinox",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 772,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:away": {
+   "employer": "Away",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 27,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:brooklinen": {
+   "employer": "Brooklinen",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 7,
+   "matched": 0,
+   "error": null
+  },
+  "ashby:notion": {
+   "employer": "Notion",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 171,
+   "matched": 0,
+   "error": null
+  },
+  "lever:palantir": {
+   "employer": "Palantir",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 306,
+   "matched": 0,
+   "error": null
+  },
+  "lever:standtogether": {
+   "employer": "Stand Together",
+   "ok": true,
+   "lastAttempt": "2026-11-23T21:55:24.823Z",
+   "lastSuccess": "2026-11-23T21:55:24.823Z",
+   "rawCount": 131,
+   "matched": 0,
+   "error": null
+  }
+ },
+ "listings": [
+  {
+   "id": "06ucs6z",
+   "company": "Insider",
+   "title": "Audience Fellowship (January 2027)",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Social Media"
+   ],
+   "term": "Spring 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-18T20:01:49.000Z",
+   "applyUrl": "https://www.businessinsider.com/work-at-business-insider?gh_jid=6265512004",
+   "postingUrl": "https://www.businessinsider.com/work-at-business-insider?gh_jid=6265512004",
+   "pay": "$23 per hour",
+   "eligibility": [],
+   "employmentType": "Intern / Fellow",
+   "description": "Business Insider is hiring an audience fellow to distribute stories across various social networks.\n\nBusiness Insider is for people who are driven, optimistic, and always looking forward. Our mission is to inspire action through thought-provoking stories. We tell our audience what they need to know to improve their lives and the world with storytelling that is accessible, smart, sometimes unexpected, and always helpful. Our team members embody and uphold Business Insider’s three core values: we are all one team, we are effective, and we get better every day.\n\nThe Business Insider Fellowship Program is for early career journalists who want to spend six months learning from a newsroom full of passionate, dedicated journalists. Fellows are assigned to teams and become experts in digital storytelling. They produce real work that is distributed to our audience of millions, and by the end of six months, they are prepared for the next phase of their journalism careers. This paid role requires you to work for 40 hours a week. Fellowships can be hybrid, and we expect New York-based fellows to come into our office at least three times per week.\n\nApplications will be accepted until December 4.\n\nThe Role & Team:\n\nOur social media accounts are the face of our brands, and our audience fellows play an integral role by helping to run our growing network.\n\nThis role reports directly to the Audience Editor and sits on the Audience team.\n\nKey Responsibilities:\n\n• Manage posting schedules across social channels.\n\n• Help the audience team reach its goals on platforms including Facebook, X, Instagram, Reddit, LinkedIn, and other platforms. Help craft copy and visuals to promote our stories.\n\n• Pitch stories to our syndication partners, including Apple News, Yahoo, and MSN.\n\n• Analyze data, track statistics, and work collaboratively to develop our social strategies.\n\n• Package content from all verticals on the site and collaborate with the video team on multimedia projects.\n\n• Work with teams across the company in a fast-paced news environment.\n\n• Juggle multiple tasks and deadlines at once, pivoting from one task to the next without missing a beat.\n\n• Make the correct judgment calls based on what you've been trained on.\n\nThe ideal candidate has:\n\n• Work experience with one or more social media platforms\n\n• Experience working with breaking news\n\n• Experience working with editorial and journalism\n\n• Experience with content management systems\n\n• Experience with Photoshop/creating ",
+   "source": {
+    "key": "greenhouse:insider",
+    "jobId": "6265512004"
+   },
+   "key": "insider|audience fellowship january 2027|Spring 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://www.businessinsider.com/work-at-business-insider?gh_jid=6265512004"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:insider",
+     "jobId": "6265512004"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:49:21.544Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1miz6jt",
+   "company": "NBCUniversal",
+   "title": "NBC 4 New York Marketing & Digital Design Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T21:32:50.285Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733409-nbc-4-new-york-marketing-digital-design-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733409-nbc-4-new-york-marketing-digital-design-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160733409"
+   },
+   "key": "nbcuniversal|nbc 4 new york marketing & digital design internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733409-nbc-4-new-york-marketing-digital-design-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160733409"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1otw2c4",
+   "company": "NBCUniversal",
+   "title": "NBC News Communications, Marketing, and Research Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T21:32:10.118Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733129-nbc-news-communications-marketing-and-research-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733129-nbc-news-communications-marketing-and-research-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160733129"
+   },
+   "key": "nbcuniversal|nbc news communications marketing and research internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160733129-nbc-news-communications-marketing-and-research-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160733129"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1t8rltf",
+   "company": "NBCUniversal",
+   "title": "NBC Local Production, Editorial, and Marketing News Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T19:00:37.135Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160697300-nbc-local-production-editorial-and-marketing-news-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160697300-nbc-local-production-editorial-and-marketing-news-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160697300"
+   },
+   "key": "nbcuniversal|nbc local production editorial and marketing news internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160697300-nbc-local-production-editorial-and-marketing-news-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160697300"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0umocun",
+   "company": "NBCUniversal",
+   "title": "Advertising & Partnerships: Ad Products Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T17:57:31.209Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479-advertising-partnerships-ad-products-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479-advertising-partnerships-ad-products-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160686479"
+   },
+   "key": "nbcuniversal|advertising & partnerships ad products internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479-advertising-partnerships-ad-products-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160686479"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1np7cs2",
+   "company": "NBCUniversal",
+   "title": "Advertising & Partnerships: Enterprise Marketing & Communications Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T17:36:12.770Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160681069-advertising-partnerships-enterprise-marketing-communications-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160681069-advertising-partnerships-enterprise-marketing-communications-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160681069"
+   },
+   "key": "nbcuniversal|advertising & partnerships enterprise marketing & communications internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160681069-advertising-partnerships-enterprise-marketing-communications-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160681069"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0k6gf8p",
+   "company": "NBCUniversal",
+   "title": "Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T17:31:31.742Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160680389-advertising-partnerships-sales-sales-support-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160680389-advertising-partnerships-sales-sales-support-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "· Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "· Cumulative GPA of 3.0 or above.",
+    "Interns may help develop sponsorship ideas, explore trends in content and fandom, evaluate market performance, and support business-development initiatives."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n· Paid company holidays for full-time interns.  \n· Robust networking, learning and development opportunities.\n· Complimentary Peacock subscription during your internship.\n· Free admission to Unive",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160680389"
+   },
+   "key": "nbcuniversal|advertising & partnerships sales & sales support internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160680389-advertising-partnerships-sales-sales-support-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160680389"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0p22ja0",
+   "company": "NBCUniversal",
+   "title": "Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T16:23:48.664Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160664279-platform-distribution-partnerships-business-development-sales-marketing-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160664279-platform-distribution-partnerships-business-development-sales-marketing-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160664279"
+   },
+   "key": "nbcuniversal|platform distribution & partnerships business development sales & marketing internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160664279-platform-distribution-partnerships-business-development-sales-marketing-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160664279"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1eueguk",
+   "company": "NBCUniversal",
+   "title": "Universal Pictures Publicity & Marketing Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T15:41:57.497Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649714-universal-pictures-publicity-marketing-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649714-universal-pictures-publicity-marketing-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160649714"
+   },
+   "key": "nbcuniversal|universal pictures publicity & marketing internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649714-universal-pictures-publicity-marketing-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160649714"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0zv6t3l",
+   "company": "NBCUniversal",
+   "title": "Advertising & Program Standards Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T15:25:22.088Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160646119-advertising-program-standards-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160646119-advertising-program-standards-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\n\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to Universal Parks to use during your internship.\n\n• Access to mental health resources including counseling sessions.\n\n• Financial assistance to offset expenses for transportation and housing may be available on a needs-based basis for eligible in-person interns. More details about eligibility for this assistance will be provided at the time of offer. \n\nSummer 2027 Program Details\nProgram Dates: June 7 – August 13, 2027\nTime Commitment: 40 hours per week. Exact schedule to be determined based on business need. \nFormat: Opportunities listed will require an intern to work from New York, NY.\nSummer 2027 Recruitment Timeline\nNovember 9 – December 4: Applications Open (may close early due to applicant volume) \nMid November – Late December: First round video interviews  \nMid – Late January: Second round interviews \nLate January – February: Selected candidates receive offers \nTo Apply:\n\n• Submit a one-page resume that outlines your work experience, accomplishments, and your graduation month and year.\n\n• Submit a cover letter that highlights your passion for NBCUniversal and your top areas of interest (opportunities listed below).\n\n• Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.\n\nMedia Group:   The Media Group at NBCU supports a powerhouse collection of consumer-first brands including Peacock, NBC, Bravo, NBC Sports, and NBCU International. With une",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160646119"
+   },
+   "key": "nbcuniversal|advertising & program standards internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160646119-advertising-program-standards-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160646119"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "1xgxskz",
+   "company": "NBCUniversal",
+   "title": "Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Marketing",
+    "Social Media",
+    "Brand Marketing"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-09T15:04:22.973Z",
+   "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160639419-universal-television-entertainment-marketing-communications-brand-strategy-internships-summer-2027?oga=true",
+   "postingUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160639419-universal-television-entertainment-marketing-communications-brand-strategy-internships-summer-2027",
+   "pay": "$19.00/hour",
+   "eligibility": [
+    "Upload a transcript (unofficial transcripts are fine) that confirms your status as an actively enrolled student in a degree-granting program.",
+    "Cumulative GPA of 3.0 or above.",
+    "Must be presently authorized to work for any employer in the United States and must not require work visa sponsorship from NBCUniversal now or in the future to retain authorization to work in the United States."
+   ],
+   "employmentType": "Intern",
+   "description": "Company Description\nNBCUniversal is one of the world's leading media and entertainment companies. We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our global theme park destinations, consumer products, and experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, NBC Sports, Telemundo, NBC Local Stations, Bravo, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through our powerhouse film and television studios, including Universal Pictures, DreamWorks Animation, and Focus Features, and the four global television studios under the Universal Studio Group banner, and operate industry-leading theme parks and experiences around the world through Universal Destinations & Experiences, including Universal Orlando Resort, home to Universal Epic Universe, and Universal Studios Hollywood. NBCUniversal is a subsidiary of Comcast Corporation. Visit www.nbcuniversal.com for more information.\nOur impact is rooted in improving the communities where our employees, customers, and audiences live and work. We have a rich tradition of giving back and ensuring our employees have the opportunity to serve their communities. We champion an inclusive culture and strive to attract and develop a talented workforce to create and deliver a wide range of content reflecting our world.\nJob Description\nYour future in media starts here. The NBCUniversal Summer Internship Program is your chance to help shape what’s next in media and entertainment. Whether you’re supporting major news coverage, creating content for iconic brands, or contributing to innovative projects, you’ll bring your ideas, creativity, and perspective to make an impact throughout your internship.\nBeyond your day-to-day role, you’ll take part in a thoughtfully designed program focused on career development, building your professional presence, and growing your workplace confidence. Through real-world experience and a community of fellow interns, you’ll explore what’s possible in this ever changing and exciting industry.\nIn addition to all of our internships being paid, we will also offer the following for our Summer 2027 interns:   \n\n• Paid company holidays for full-time interns.  \n\n• Robust networking, learning and development opportunities.\n\n• Complimentary Peacock subscription during your internship.\n\n• Free admission to U",
+   "source": {
+    "key": "smartrecruiters:NBCUniversal3",
+    "jobId": "744000160639419"
+   },
+   "key": "nbcuniversal|universal television entertainment marketing communications & brand strategy internships - summer 2027|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160639419-universal-television-entertainment-marketing-communications-brand-strategy-internships-summer-2027?oga=true"
+    }
+   ],
+   "sources": [
+    {
+     "key": "smartrecruiters:NBCUniversal3",
+     "jobId": "744000160639419"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "09s4ovb",
+   "company": "Hypebeast",
+   "title": "Social Intern",
+   "industries": [
+    "Fashion"
+   ],
+   "roles": [
+    "Marketing",
+    "Social Media"
+   ],
+   "term": "Term not stated",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "on-site",
+   "postedAt": "2026-11-04T01:44:30.257Z",
+   "applyUrl": "https://jobs.lever.co/hypebeast/cfd1f953-f6cd-4b07-934e-729dc14cb46a/apply",
+   "postingUrl": "https://jobs.lever.co/hypebeast/cfd1f953-f6cd-4b07-934e-729dc14cb46a",
+   "pay": "$19 – $20/hour",
+   "eligibility": [],
+   "employmentType": "Internship",
+   "description": "Hypebae is a global contemporary-culture media brand for women. Through news, features, interviews, original visual storytelling, and live events, Hypebae covers fashion, beauty, and the culture around them, bringing its audience closer to the voices, ideas, and movements shaping what comes next. \n \nHypebeast Media Network is Hypebeast Group's portfolio of editorial, social, and video brands across fashion, art, design, music, automotive, golf, sports, technology, and lifestyle. Led by Hypebeast and including Hypebae, Popbee, Hypegolf, and specialist titles, the network combines global reach with regional cultural knowledge to produce original reporting, curation, video, social storytelling and experiences.\n \n\nResponsibilities:\n• Support the Social Media team with daily reporting, email conversations and analytics.\n\n• Brainstorm and develop relevant ideas for Hypebae's social platforms, e.g. Twitter, Instagram, Pinterest, YouTube Shorts, TikTok and Facebook.\n\n• Create content around holidays, observances, events and news on a daily basis.\n\n• Handle daily posting on Hypebae's social platforms, i.e. Instagram and TikTok.\n\n• Assist in creating various assets for editorial and social channels, both static image and video.\n\n• Establish an eye for our aesthetics and writing for social media.\n\n• Attend external events on behalf of Hypebae for content capture.\nRequirements:\n• Highly proficient in spoken and written English.\n\n• Proficient in Reels edits, CapCut and Photoshop.\n\n• A team player but able to work independently.\n\n• Understands the visual identity of Hypebae.\n\n• Passionate about culture, fashion, sneakers, sport, beauty and content creation.\n\n• Proactive and willing to learn; positive attitude.\n\n• Available to work nights and weekends for events where relevant.\n\n• Ideally available to intern most days of the week in the NY office.\nIf you think you’ve got what it takes, please provide your portfolio/website, cover letter, CV and expected salary.\n \nThis position is based and located in New York. Candidate must be eligible to work in US.\n \nPersonal data collected is for recruitment purposes only.\n",
+   "source": {
+    "key": "lever:hypebeast",
+    "jobId": "cfd1f953-f6cd-4b07-934e-729dc14cb46a"
+   },
+   "key": "hypebeast|social intern|Term not stated",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://jobs.lever.co/hypebeast/cfd1f953-f6cd-4b07-934e-729dc14cb46a/apply"
+    }
+   ],
+   "sources": [
+    {
+     "key": "lever:hypebeast",
+     "jobId": "cfd1f953-f6cd-4b07-934e-729dc14cb46a"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0h236ay",
+   "company": "Galaxy",
+   "title": "2027 Sales and Trading Internships - NYC",
+   "industries": [
+    "Banking & Financial Services"
+   ],
+   "roles": [
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-03T17:49:19.000Z",
+   "applyUrl": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004",
+   "postingUrl": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004",
+   "pay": "$55/hr",
+   "eligibility": [
+    "Undergraduate or master’s students graduating between December 2027 and June 2028"
+   ],
+   "employmentType": "",
+   "description": "Who We Are:\n\nGalaxy Digital Inc. (Nasdaq: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-gigawatt pipeline of more than 5.7 GW of potential capacity, positioning it among the largest and fastest-growing data center developers in North America.\n\nThe Company is headquartered in New York City, with offices across North America, Europe, the Middle East, and Asia.\n\nAdditional information about Galaxy's businesses and products is available on www.galaxy.com .\n\nWhat We Value:\n\nWe are a diverse team of free thinkers, and fast movers united to help investors and creators energize the global economy. We are looking for individuals who thrive in a culture of builders and overachievers and embrace high performance, transparent feedback, and a mission-first approach. Our culture shapes our way of working and gets us where we want to be.\n\n• Seek Excellence.\n\n• Be Selective To Be Effective.\n\n• Be Highly Aligned, Loosely Coupled.\n\n• Disagree Transparently.\n\n• Encourage Independent Decision-Making.\n\n• Build Dream Teams.\n\nAbout the Galaxy Summer Internship Program\n\nThe Galaxy NYC Summer Internship Program is an immersive, nine-week experience taking place on-site in our New York HQ office. During the nine weeks, you will gain hands-on, practical work experience on our Sales and Trading team(s), working on real products and problems alongside the people building them. In addition to learning on the job, Galaxy interns participate in professional development programming, social events, and networking opportunities with senior leaders.\n\nThis year, we’re adding a rotational element to our Sales and Trading internship, giving interns exposure across more than one area of the business. When you apply, you’ll be asked to rank your top three desk preferences. If we think you’re a great fit, we’ll be in touch and will let you know which seat you’re being considered for.\n\nThere will be internship opportunities across:\n\n• Franchise Trading\n\n• Principal Trading\n\n• Sales\n\n• Lending\n\n• On Chain Trading\n\nProgram Dates : June 7th – August 6th, 2027\n\nWhat You'll Do:\n\n• Support Galaxy Trading thr",
+   "source": {
+    "key": "greenhouse:galaxydigitalservices",
+    "jobId": "6242350004"
+   },
+   "key": "galaxy|2027 sales and trading internships - nyc|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6242350004"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:galaxydigitalservices",
+     "jobId": "6242350004"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "010t8bk",
+   "company": "Roku",
+   "title": "Ad Sales and Revenue Solutions Intern",
+   "industries": [
+    "Entertainment"
+   ],
+   "roles": [
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-11-02T06:28:04.000Z",
+   "applyUrl": "https://www.weareroku.com/jobs/8330831?gh_jid=8330831",
+   "postingUrl": "https://www.weareroku.com/jobs/8330831?gh_jid=8330831",
+   "pay": null,
+   "eligibility": [],
+   "employmentType": "",
+   "description": "Teamwork makes the stream work.\n\nRoku is changing how the world watches TV\n\nRoku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.\n\nFrom your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.\n\nAbout the role\nRoku is seeking a self-motivated, detail-oriented student to join our Advertising Sales team as a Summer 2027 Intern in our New York City office.\n\n• In this role, you will gain hands-on exposure to the post-sale side of the advertising lifecycle by supporting Client Associates, Sellers, and Account Managers across Roku’s sales organization. You will contribute to core client-facing functions, including account research, campaign and meeting preparation, performance and pacing reporting, and renewal and expansion planning. You will also collaborate cross-functionally with teams such as Client Services, Sales Planning, Advertising Operations, Inventory, Measurement, Sales, and Marketing to support client needs and business objectives.\n\n• The ideal candidate thrives in a fast-paced environment, brings curiosity and enthusiasm to their work, and is willing to take ownership of both large initiatives and day-to-day tasks. You are thoughtful, a self-starter, and excited to contribute to an innovative company operating at the intersection of media and technology.\n\nWhat you’ll be doing\n\n• Build a foundational understanding of connected TV advertising and how Client Associates and Account Managers keep campaigns and client relationships running\n\n• Support Client Associates with campaign execution, including trafficking checks, creative and asset follow-up, and status tracking\n\n• Support pre-sale and post-sale deliverables. \n\n• Assist with competitive/industry research and analysis. \n\n• Take part in broader business team meetings, ranging from weekly connects with Account Executives to larger org wide meetings and company-wide town halls. \n\n• Assist Accou",
+   "source": {
+    "key": "greenhouse:roku",
+    "jobId": "8330831"
+   },
+   "key": "roku|ad sales and revenue solutions intern|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://www.weareroku.com/jobs/8330831?gh_jid=8330831"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:roku",
+     "jobId": "8330831"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "045w9my",
+   "company": "Sotheby's",
+   "title": "2027 Summer Intern Program (New York)",
+   "industries": [
+    "Art & Luxury"
+   ],
+   "roles": [
+    "Marketing",
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-10-01T17:51:24.000Z",
+   "applyUrl": "https://job-boards.greenhouse.io/sothebys/jobs/6212456004",
+   "postingUrl": "https://job-boards.greenhouse.io/sothebys/jobs/6212456004",
+   "pay": "$22.00/hour",
+   "eligibility": [
+    "Currently pursuing an undergraduate degree with a graduation date between December 2027 and June 2028",
+    "A strong academic record with a minimum 3.3 GPA"
+   ],
+   "employmentType": "",
+   "description": "ABOUT SOTHEBY'S\n\nEstablished in 1744, Sotheby’s promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of specialists spanning 40 countries. Selling categories include Contemporary Art, Modern and Impressionist Art, Old Masters, Chinese Works of Art, Jewelry, Watches, Wine and Spirits and Design, as well as collectible cars and real estate through RM Sotheby’s and Concierge. Sotheby’s Financial Services is a leading art lender and provides capital solutions for collectors around the world, having originated more than $12 billion in loans since its inception. Sotheby’s new global headquarters is now open at the iconic Breuer building at 945 Madison Avenue in New York City.\n\n2027 Summer Intern Program (New York)\n\nSotheby’s, the oldest and largest internationally recognized firm of fine art auctioneers in the world, has been uniting collectors with world-class works of art since 1744. We will be offering exceptional undergraduate students the opportunity to participate in a unique 10-week paid Summer Internship Program.\n\nSotheby’s Summer Internship Program provides practical training experience to students interested in pursuing a career in the fine art and auction world. Internships are available across various business areas and interns will work within a specific department based on their academic interests and professional goals. Over the course of the summer program, Sotheby’s interns will experience the inner workings of a world-renowned auction house, see great rarities and discover potential industry career opportunities. In addition, interns will gain exposure to the business through hands-on learning, mentorship, team projects and so much more.\n\nSummer Intern Program Experience\n\n• Onsite, paid full-time 10-week program, Monday, June 7 – Friday, August 13, 2027\n\n• Experience the culture and atmosphere of Sotheby’s by taking on responsibilities of Full-Time employees, working on a variety of projects and making meaningful contributions\n\n• Learn from our leaders about our culture as well as the benefits and responsibilities of being a member of Sotheby’s through ongoing Speaker Series\n\n• Gain on-the-job training by working alongside experienced professionals on meaningful projects throughout the program\n\n• Exchange ideas and network with peers, mentors and senior managers through tea",
+   "source": {
+    "key": "greenhouse:sothebys",
+    "jobId": "6212456004"
+   },
+   "key": "sotheby-s|2027 summer intern program new york|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://job-boards.greenhouse.io/sothebys/jobs/6212456004"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:sothebys",
+     "jobId": "6212456004"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:49:21.544Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "14zapg1",
+   "company": "Jane Street",
+   "title": "Sales and Trading",
+   "industries": [
+    "Banking & Financial Services"
+   ],
+   "roles": [
+    "Sales"
+   ],
+   "term": "Summer 2027",
+   "termInferred": true,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2026-01-16T12:41:15.000Z",
+   "applyUrl": "https://www.janestreet.com/join-jane-street/apply/8347385002?gh_jid=8347385002",
+   "postingUrl": "https://www.janestreet.com/join-jane-street/apply/8347385002?gh_jid=8347385002",
+   "pay": "$225,000/year",
+   "eligibility": [
+    "Planning to graduate in 2028"
+   ],
+   "employmentType": "Summer Internship",
+   "description": "About the position\n\nOur goal is to give you a real sense of what it's like to work at Jane Street full time while also providing a truly unparalleled educational experience. As an intern, you are paired with full-time employees who act as mentors, collaborating with you on projects very similar to the real-world ones that we need done.\n\nAs a Sales and Trading intern, you'll work alongside our experienced Sales people and Sales-Traders, learning how we engage and cover institutional clients on their trading needs in the different asset classes that we cover. They'll offer insight into the types of client inquiries we handle daily, and you'll learn how we service our clients, issuers, and prospective clients. The internship is a fast-paced, immersive experience, and you will attend internal classes on various topics where we can teach you the broader fundamentals of finance and trading.\n\nLearn more about Jane Street's internship program here .\n\nAbout you\n\nIf you have a curious mind, a collaborative spirit, and would enjoy working with clients to solve interesting problems, we have a feeling you'll fit right in. We're more interested in how you think and learn than what you currently know. You should be:\n\n• Planning to graduate in 2028\n\n• Studying towards a Bachelor's or Master's degree\n\n• Curious about financial markets and eager to learn in a rapidly changing environment\n\n• Someone who thrives in a fast-paced environment, staying calm and effective under pressure\n\n• Resilient and adaptable, with the ability to recover quickly from setbacks and learn from mistakes\n\n• A proactive, self-motivated problem-solver excited about building relationships with clients and partners\n\n• Highly analytical and logical, comfortable working with numbers and data\n\n• Extremely organized with excellent attention to detail, even when managing competing priorities\n\n• Strong interpersonal and communication skills\nEmployment Type: Summer Internship\nDuration: May-August",
+   "source": {
+    "key": "greenhouse:janestreet",
+    "jobId": "8347385002"
+   },
+   "key": "jane-street|sales and trading|Summer 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://www.janestreet.com/join-jane-street/apply/8347385002?gh_jid=8347385002"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:janestreet",
+     "jobId": "8347385002"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:49:21.544Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  },
+  {
+   "id": "0sssszn",
+   "company": "Power Digital",
+   "title": "Public Relations Intern, Spring 2027",
+   "industries": [
+    "Agencies"
+   ],
+   "roles": [
+    "Marketing"
+   ],
+   "term": "Spring 2027",
+   "termInferred": false,
+   "locations": [
+    "New York, NY"
+   ],
+   "regions": [
+    "nyc"
+   ],
+   "workplace": "",
+   "postedAt": "2024-04-10T16:21:15.000Z",
+   "applyUrl": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4345830007",
+   "postingUrl": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4345830007",
+   "pay": null,
+   "eligibility": [
+    "Compensation : College credit [MUST be enrolled in college course]"
+   ],
+   "employmentType": "Internship",
+   "description": "Who We Are:\n\nPower Digital is an AI-Native Growth Firm built at the intersection of world-class talent and proprietary technology. We help leading and emerging brands grow by combining deep vertical expertise, strategic thinking, and enterprise intelligence to drive measurable business outcomes.\n\nFor more than a decade, we have built our business around one belief: the best technology makes great people better. Our teams of strategists, creatives, analysts, and technologists use Omega, our AI operating system, to surface opportunities faster, investigate what is driving performance, and execute approved work with greater speed and precision. Behind Omega is Iris, our proprietary intelligence layer, built on years of real performance data, strategic frameworks, testing, and learnings from across our client portfolio. AI expands the capacity of our people to think, create, solve harder problems, and make better decisions. Human judgment, creativity, and accountability remain central to how we work.\n\nAs a people-first firm, we value diversity in backgrounds and experiences. We strongly believe our people and culture are key to our success. We partner closely with our clients as an extension of their teams, working across strategy, execution, and measurement to identify what is truly blocking growth and determine what to do next. Our culture is built on people who are curious, ambitious, accountable, and committed to delivering meaningful results for our clients and for one another.\n\nAt Power Digital, we believe the future belongs to teams that combine the best talent with the best technology. We are building that future today.\n\n*This is a remote opportunity open to current college students enrolling in an internship course for college credit in NYC\n\nPosition Title: Public Relations Intern, NYC Office Hybrid Internship\n\nInternship Term : Spring 2027\n\nCompensation : College credit [MUST be enrolled in college course]\n\nDesired Fields of Study: Public Relations, Communications, Journalism, or related fields\n\nHours Desired: 15-20/week ( We are looking for the NYC intern to come to office 2 days per week)\n\nA day in the life:\n\n• As a Public Relations Intern at Power Digital's NYC office, you'll assist in sample coordination, beauty closet organization, client status updates, media tracking, and coverage reporting. This hybrid internship requires previous PR or influencer relations experience, strong attention to detail, and excellent organizational skills. You'll wo",
+   "source": {
+    "key": "greenhouse:powerdigitalmarketing",
+    "jobId": "4345830007"
+   },
+   "key": "power-digital|public relations intern spring 2027|Spring 2027",
+   "applyLinks": [
+    {
+     "label": "New York, NY",
+     "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/4345830007"
+    }
+   ],
+   "sources": [
+    {
+     "key": "greenhouse:powerdigitalmarketing",
+     "jobId": "4345830007"
+    }
+   ],
+   "firstSeenAt": "2026-11-23T21:47:40.592Z",
+   "lastSeenAt": "2026-11-23T21:55:24.823Z",
+   "status": "active",
+   "closedAt": null
+  }
+ ]
+}

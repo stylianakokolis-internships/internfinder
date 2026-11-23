@@ -1,0 +1,1821 @@
+{
+ "startedAt": "2026-11-23T21:55:24.823Z",
+ "employers": [
+  {
+   "employer": "Glossier",
+   "key": "greenhouse:glossier",
+   "ok": true,
+   "jobsOnBoard": 18,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Sol de Janeiro",
+   "key": "greenhouse:soldejaneiro",
+   "ok": true,
+   "jobsOnBoard": 46,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Supergoop!",
+   "key": "greenhouse:supergoop",
+   "ok": true,
+   "jobsOnBoard": 6,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Harry's",
+   "key": "greenhouse:harrys",
+   "ok": true,
+   "jobsOnBoard": 14,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Billie",
+   "key": "ashby:billie",
+   "ok": true,
+   "jobsOnBoard": 1,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Rent the Runway",
+   "key": "greenhouse:renttherunway",
+   "ok": true,
+   "jobsOnBoard": 24,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Reformation",
+   "key": "greenhouse:reformation",
+   "ok": true,
+   "jobsOnBoard": 144,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Everlane",
+   "key": "greenhouse:everlane",
+   "ok": true,
+   "jobsOnBoard": 31,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Aimé Leon Dore",
+   "key": "greenhouse:aimeleondore",
+   "ok": true,
+   "jobsOnBoard": 11,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Veronica Beard",
+   "key": "greenhouse:veronicabeard",
+   "ok": true,
+   "jobsOnBoard": 73,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "ThirdLove",
+   "key": "greenhouse:thirdlove",
+   "ok": true,
+   "jobsOnBoard": 14,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Cuyana",
+   "key": "greenhouse:cuyana",
+   "ok": true,
+   "jobsOnBoard": 2,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Mejuri",
+   "key": "greenhouse:mejuri",
+   "ok": true,
+   "jobsOnBoard": 177,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "BaubleBar",
+   "key": "greenhouse:baublebar",
+   "ok": true,
+   "jobsOnBoard": 10,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Rebag",
+   "key": "greenhouse:rebag",
+   "ok": true,
+   "jobsOnBoard": 11,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "StockX",
+   "key": "greenhouse:stockx",
+   "ok": true,
+   "jobsOnBoard": 28,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Alo Yoga",
+   "key": "greenhouse:aloyoga",
+   "ok": true,
+   "jobsOnBoard": 723,
+   "matched": [],
+   "skippedInternships": {
+    "graduate students only": [
+     "Legal Intern — [\"Beverly Hills, California, United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "The Business of Fashion",
+   "key": "greenhouse:businessoffashion",
+   "ok": true,
+   "jobsOnBoard": 7,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Good American",
+   "key": "lever:goodamerican",
+   "ok": true,
+   "jobsOnBoard": 6,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Vestiaire Collective",
+   "key": "lever:vestiairecollective",
+   "ok": true,
+   "jobsOnBoard": 15,
+   "matched": [],
+   "skippedInternships": {
+    "graduate students only": [
+     "Legal Intern IP/IT & Business Affairs - July 2027 — [\"Paris\"]",
+     "Performance Marketing Intern - January 2027 — [\"Paris\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "Marketplace Performance Intern - January 2027 — [\"Paris\"]",
+     "Tax Intern - January 2027 — [\"Paris\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Hypebeast",
+   "key": "lever:hypebeast",
+   "ok": true,
+   "jobsOnBoard": 22,
+   "matched": [
+    "Social Intern"
+   ],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Creative Intern — [\"Shenzhen\"]",
+     "Creative Intern — [\"Hong Kong\"]"
+    ]
+   }
+  },
+  {
+   "employer": "FARFETCH",
+   "key": "ashby:farfetch",
+   "ok": true,
+   "jobsOnBoard": 43,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Poshmark",
+   "key": "ashby:poshmark",
+   "ok": true,
+   "jobsOnBoard": 21,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Robinhood",
+   "key": "greenhouse:robinhood",
+   "ok": true,
+   "jobsOnBoard": 160,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Corporate Finance Intern (Summer 2027) — [\"New York, NY\"]"
+    ],
+    "graduate students only": [
+     "Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) — [\"Menlo Park, CA\"]",
+     "People Partner Intern (Summer 2027) — [\"New York, NY\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Stripe",
+   "key": "greenhouse:stripe",
+   "ok": true,
+   "jobsOnBoard": 770,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Data Analyst, Intern — [\"Toronto\"]",
+     "Financial Data Analyst Intern, Technical Operations — [\"Singapore\"]",
+     "High School Internship, Software Engineering (Summer 2027) — [\"Seattle, San Francisco\"]",
+     "Integration Reliability Engineer Intern, Technical Operations — [\"Singapore\"]",
+     "Product Design Intern — [\"Toronto\"]",
+     "Product Design Intern — [\"San Francisco, Seattle, New York City\"]",
+     "Software Engineer, Intern — [\"Singapore\"]",
+     "Software Engineer, Intern — [\"Bengaluru\"]",
+     "Software Engineer, Intern — [\"London\"]",
+     "Software Engineer, Intern — [\"Bucharest\"]",
+     "Software Engineer, Intern (Summer) — [\"San Francisco, Seattle, New York City\"]",
+     "Software Engineer, Intern (Summer) — [\"Toronto\"]",
+     "Software Engineer, Intern (Summer or Winter) — [\"Dublin\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "Data Analyst, Intern — [\"New York, Seattle, South San Francisco HQ\"]"
+    ],
+    "graduate students only": [
+     "Master's Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]",
+     "Master's Machine Learning Engineer, Intern — [\"Toronto\"]",
+     "PhD Data Scientist, Intern — [\"Toronto\"]",
+     "PhD Data Scientist, Intern — [\"New York, Seattle, South San Francisco HQ\"]",
+     "PhD Machine Learning Engineer, Intern — [\"Toronto\"]",
+     "PhD Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Brex",
+   "key": "greenhouse:brex",
+   "ok": true,
+   "jobsOnBoard": 259,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Operations Intern — [\"São Paulo, São Paulo, Brazil\"]",
+     "Software Engineer, Internship - 2027 — [\"São Paulo, São Paulo, Brazil\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Affirm",
+   "key": "greenhouse:affirm",
+   "ok": true,
+   "jobsOnBoard": 218,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "IT Engineer Intern (Early Careers Summer 2027) — [\"San Francisco, California, United States\"]",
+     "Software Engineer Intern (Summer 2027) — [\"San Francisco, California, United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Chime",
+   "key": "greenhouse:chime",
+   "ok": true,
+   "jobsOnBoard": 83,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "SoFi",
+   "key": "greenhouse:sofi",
+   "ok": true,
+   "jobsOnBoard": 55,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Betterment",
+   "key": "greenhouse:betterment",
+   "ok": true,
+   "jobsOnBoard": 25,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Point72",
+   "key": "greenhouse:point72",
+   "ok": true,
+   "jobsOnBoard": 201,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "2027 Asia Summer Internship - Investment Services — [\"Singapore, Hong Kong\"]",
+     "2027 MI Data Research & AI Intern - APAC — [\"Hong Kong, Singapore, Japan\"]",
+     "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan — [\"Japan\"]",
+     "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF) — [\"Japan\"]",
+     "2027 Trader Intern (12-week program) — [\"Hong Kong Japan\"]",
+     "2028 Point72 Academy Investment Analyst Summer Internship Program - US — [\"United States\"]",
+     "Corporate Access Intern — [\"Hong Kong\"]",
+     "Long/Short Equity Support Research Intern, Hong Kong — [\"Hong Kong\"]",
+     "Quantitative Researcher - Intern — [\"London, Paris, Hong Kong, Tokyo\"]"
+    ],
+    "graduate students only": [
+     "2027 Economist Intern — [\"Singapore\"]",
+     "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research — [\"New York, NY\"]",
+     "Machine Learning Researcher - Intern — [\"New York\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "2027 Summer Internship - Fundamental Researcher, Canvas — [\"New York, NY\"]",
+     "2027 Summer Internship - Investment Services — [\"New York, New York, United States, Stamford, Connecticut, United States\"]",
+     "2027 Summer Internship - Sector Analyst, Proprietary Research — [\"New York, NY\"]",
+     "2027 Summer Internship – Software Engineer — [\"New York, NY\"]",
+     "Micro-Intern: Research Technology Developer (IAP) — [\"New York\"]",
+     "Quantitative Developer Intern — [\"New York\"]",
+     "Quantitative Researcher Intern — [\"New York\"]",
+     "Quantitative Research Intern — [\"New York, Seattle\"]",
+     "Quantitative Research Intern (NLP) — [\"New York\"]",
+     "Quantitative Software Developer Intern — [\"New York\"]",
+     "Summer 2027 Quantitative Research Internship — [\"New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Bridgewater Associates",
+   "key": "greenhouse:bridgewater89",
+   "ok": true,
+   "jobsOnBoard": 16,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "2028 Investment Associate Intern — [\"New York City\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Schonfeld",
+   "key": "greenhouse:schonfeld",
+   "ok": true,
+   "jobsOnBoard": 65,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "2027 AI Forward Deployed Engineer Intern — [\"Hong Kong, Hong Kong\"]",
+     "2027 Enterprise Data Intern — [\"Singapore, Central, Singapore\"]",
+     "2027 Equity Middle Office Intern — [\"Hong Kong, Hong Kong\"]",
+     "2027 Index Rebalancing Quantitative Research Intern — [\"Hong Kong, Hong Kong\"]",
+     "2027 Quantitative C++ Developer Intern — [\"Hong Kong, Hong Kong\"]",
+     "2027 Software Engineering Intern — [\"Hong Kong, Hong Kong\"]",
+     "2027 Software Engineering Intern — [\"Singapore, Central, Singapore\"]",
+     "2027 Systematic COO Intern — [\"Hong Kong, Hong Kong\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "2027 Compensation Accounting Intern — [\"New York, New York, United States\"]",
+     "2027 Cybersecurity Operations Intern — [\"New York, New York, United States\"]",
+     "2027 Platform Engineering Intern — [\"New York, New York, United States\"]"
+    ],
+    "graduate students only": [
+     "2027 PhD Quantitative Research Intern — [\"London, England, United Kingdom\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Gemini",
+   "key": "greenhouse:gemini",
+   "ok": true,
+   "jobsOnBoard": 26,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Prediction Markets Operations Intern (Winter 2027) — [\"New York, New York\"]",
+     "Product Design Intern (Winter 2027) — [\"New York, New York\"]",
+     "Product Management Intern (Winter 2027) — [\"New York, New York\"]",
+     "Software Engineering Intern (Winter 2027) — [\"New York, New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Galaxy",
+   "key": "greenhouse:galaxydigitalservices",
+   "ok": true,
+   "jobsOnBoard": 57,
+   "matched": [
+    "2027 Sales and Trading Internships - NYC"
+   ],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "2027 Construction Intern-Afton, Texas — [\"Afton, Texas\"]",
+     "2027 Environmental Health & Safety Engineer Intern-Afton Texas — [\"Afton, Texas\"]",
+     "2027 Site Reliability Engineer Intern-Afton, Texas — [\"Afton, Texas\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "2027 Digital Infrastructure Intern - NYC — [\"New York\"]",
+     "2027 Finance (Internal Audit) Intern - NYC — [\"New York\"]",
+     "2027 Finance (Treasury) Intern - NYC — [\"New York\"]",
+     "2027 FP&A Intern - NYC — [\"New York\"]",
+     "2027 Research Intern - NYC — [\"New York\"]",
+     "2027 Risk Intern - NYC — [\"New York\"]",
+     "2027 Ventures Intern - NYC — [\"New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Five Rings",
+   "key": "greenhouse:fiveringsllc",
+   "ok": true,
+   "jobsOnBoard": 21,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Summer 2027 - Trading Operations Engineer Intern — [\"New York\"]",
+     "Summer Intern 2027 - Quantitative Trader — [\"New York\"]",
+     "Summer Intern 2027 - Software Developer — [\"New York\"]"
+    ],
+    "graduate students only": [
+     "Summer Intern 2027 - Quantitative Researcher (PhD) — [\"New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Graham Capital Management",
+   "key": "greenhouse:grahamcapitalmanagement",
+   "ok": true,
+   "jobsOnBoard": 13,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "2027 Graham Capital Summer Internship – CT / NYC — [\"New York, New York, United States; Norwalk, Connecticut, United States\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "2027 Graham Capital Summer Internship – London — [\"London, England, United Kingdom\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Mercury",
+   "key": "greenhouse:mercury",
+   "ok": true,
+   "jobsOnBoard": 69,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Payoneer",
+   "key": "greenhouse:payoneer",
+   "ok": true,
+   "jobsOnBoard": 100,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Business Operations Intern — [\"Shenzhen, China\"]",
+     "Digital Marketing Intern — [\"Shanghai, China\"]",
+     "Sales Intern - Business Development Team — [\"Shenzhen, China\"]"
+    ]
+   }
+  },
+  {
+   "employer": "AQR Capital Management",
+   "key": "greenhouse:aqr",
+   "ok": true,
+   "jobsOnBoard": 43,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Jane Street",
+   "key": "greenhouse:janestreet",
+   "ok": true,
+   "jobsOnBoard": 216,
+   "matched": [
+    "Sales and Trading"
+   ],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Clear Street",
+   "key": "greenhouse:clearstreet",
+   "ok": true,
+   "jobsOnBoard": 33,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Carta",
+   "key": "greenhouse:carta",
+   "ok": true,
+   "jobsOnBoard": 80,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Marketing Intern — [\"Singapore\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Public.com",
+   "key": "greenhouse:public",
+   "ok": true,
+   "jobsOnBoard": 4,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Wealthfront",
+   "key": "lever:wealthfront",
+   "ok": true,
+   "jobsOnBoard": 20,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Ramp",
+   "key": "ashby:ramp",
+   "ok": true,
+   "jobsOnBoard": 181,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Applied Scientist Intern — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]",
+     "Software Engineering Intern, Frontend — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]",
+     "Software Engineering Intern, Backend — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]",
+     "Software Engineering Intern, Android — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]",
+     "Software Engineering Intern, iOS — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]",
+     "Risk Strategy Intern — [{\"city\":\"New York City\",\"state\":\"NY\",\"text\":\"New York City, NY\"}]"
+    ]
+   }
+  },
+  {
+   "employer": "Plaid",
+   "key": "ashby:plaid",
+   "ok": true,
+   "jobsOnBoard": 148,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Paxos",
+   "key": "ashby:paxos",
+   "ok": true,
+   "jobsOnBoard": 25,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Acorns",
+   "key": "ashby:acorns",
+   "ok": true,
+   "jobsOnBoard": 8,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "NerdWallet",
+   "key": "ashby:nerdwallet",
+   "ok": true,
+   "jobsOnBoard": 27,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "VaynerMedia",
+   "key": "greenhouse:vaynermedia",
+   "ok": true,
+   "jobsOnBoard": 97,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Code and Theory",
+   "key": "greenhouse:codeandtheory",
+   "ok": true,
+   "jobsOnBoard": 44,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Huge",
+   "key": "greenhouse:hugeinc",
+   "ok": true,
+   "jobsOnBoard": 13,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "R/GA",
+   "key": "greenhouse:rga",
+   "ok": true,
+   "jobsOnBoard": 13,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Monks",
+   "key": "greenhouse:monks",
+   "ok": true,
+   "jobsOnBoard": 324,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "DEPT",
+   "key": "greenhouse:dept",
+   "ok": true,
+   "jobsOnBoard": 202,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Intern Backend Developer — [\"Amsterdam, Rotterdam\"]",
+     "Intern Brand Design — [\"Amsterdam, Rotterdam\"]",
+     "Intern Frontend Developer — [\"Amsterdam, Rotterdam\"]",
+     "Intern Project Management — [\"Amsterdam, Rotterdam\"]",
+     "Intern Research & Digital Strategy — [\"Amsterdam, Rotterdam\"]",
+     "Media Strategy Intern — [\"Amsterdam, Hybrid\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Weber Shandwick",
+   "key": "greenhouse:webershandwick",
+   "ok": true,
+   "jobsOnBoard": 21,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "WPP",
+   "key": "greenhouse:wpp",
+   "ok": true,
+   "jobsOnBoard": 209,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "WPP SSC MY | Internship - Accounting Finance & Masterdata — [\"Petaling Jaya, Selangor, Malaysia\"]",
+     "WPP SSC MY | Internship - HR & Admin — [\"Petaling Jaya, Selangor, Malaysia\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Interbrand",
+   "key": "greenhouse:interbrand",
+   "ok": true,
+   "jobsOnBoard": 17,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "BECA CURRICULAR_ CLIENT SERVICES INTERN — [\"Madrid\"]",
+     "Intern- Analyst — [\"Madrid\"]",
+     "Praktikum Brand Design // Intern Brand Design (m/f/d) — [\"Cologne\"]",
+     "Praktikum Brand Strategy // Intern Brand Strategy (m/f/d) — [\"Cologne\"]"
+    ]
+   }
+  },
+  {
+   "employer": "FleishmanHillard",
+   "key": "greenhouse:fleishmanhillard",
+   "ok": true,
+   "jobsOnBoard": 2,
+   "matched": [],
+   "skippedInternships": {
+    "graduate students only": [
+     "Graduate Intern, Financial Services Public Affairs, 6-month paid internship, Brussels — [\"Brussels-Capital, Belgium\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "Human Resources Intern, Public Affairs Consultancy 6-month paid internship, Brussels — [\"Brussels-Capital, Belgium\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Prophet",
+   "key": "greenhouse:prophet",
+   "ok": true,
+   "jobsOnBoard": 15,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Associate Intern — [\"Berlin, Munich, Zurich\"]",
+     "Design Intern — [\"London\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "Talent Acquisition Intern — [\"New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Landor",
+   "key": "greenhouse:landor",
+   "ok": true,
+   "jobsOnBoard": 57,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Client Service Intern — [\"Shanghai\"]",
+     "Design Intern — [\"Shanghai\"]",
+     "Springboard Internship - Architecture — [\"Mumbai\"]",
+     "Springboard Internship - Client Services — [\"Delhi\"]",
+     "Springboard Internship - Creative 2D — [\"Delhi\"]",
+     "Springboard Internship - Creative 2D — [\"Mumbai\"]",
+     "Springboard Internship - Strategy — [\"Mumbai\"]",
+     "Strategy Intern — [\"Shanghai\"]"
+    ]
+   }
+  },
+  {
+   "employer": "AKQA",
+   "key": "greenhouse:akqa",
+   "ok": true,
+   "jobsOnBoard": 46,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Client Services Intern — [\"Amsterdam\"]"
+    ]
+   }
+  },
+  {
+   "employer": "RAPP",
+   "key": "greenhouse:rapp",
+   "ok": true,
+   "jobsOnBoard": 7,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "5WPR",
+   "key": "greenhouse:5wpr",
+   "ok": true,
+   "jobsOnBoard": 5,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "BerlinRosen",
+   "key": "greenhouse:berlinrosen",
+   "ok": true,
+   "jobsOnBoard": 15,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Golin",
+   "key": "greenhouse:golin",
+   "ok": true,
+   "jobsOnBoard": 5,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "M Booth",
+   "key": "greenhouse:mbooth",
+   "ok": true,
+   "jobsOnBoard": 10,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Octagon",
+   "key": "greenhouse:octagon",
+   "ok": true,
+   "jobsOnBoard": 5,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Creative Intern — [\"Singapore\"]",
+     "Sports Consultancy and Data Analyst Intern (Futures Sport & Entertainment) — [\"Sydney, New South Wales, Australia\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Wieden+Kennedy",
+   "key": "greenhouse:wk",
+   "ok": true,
+   "jobsOnBoard": 15,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Power Digital",
+   "key": "greenhouse:powerdigitalmarketing",
+   "ok": true,
+   "jobsOnBoard": 231,
+   "matched": [
+    "Public Relations Intern, Spring 2027"
+   ],
+   "skippedInternships": {
+    "fully remote": [
+     "Analytics Reporting Intern — [\"Remote - Colombia\"]",
+     "Business Administration Intern — [\"Remote - Colombia\"]",
+     "Creators (UGC) Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Digital Marketing Intern — [\"Remote - Colombia\"]",
+     "Digital Marketing Intern — [\"Remote - Colombia\"]",
+     "Digital Marketing Intern / 2027-1 — [\"Remote - Colombia\"]",
+     "Digital Marketing Intern (Paid Media, Social Media, SEO, Creative, Retail & R&D) — [\"Remote - Colombia\"]",
+     "Email & SMS Marketing Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Fashion Marketing & Account Management Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Influencer Marketing Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Marketing Operations Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Organic Search (SEO & Content Marketing) Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Organic Social Media Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Paid Social Advertising Intern, Spring 2027 — [\"Remote - United States\"]",
+     "PPC Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Programmatic Internship, Spring 2027 — [\"Remote - United States\"]",
+     "Public Relations Intern, Spring 2027 — [\"Remote - United States\"]",
+     "Sales Development Representative Internship, Spring 2027 — [\"Remote - United States\"]",
+     "Social Commerce Intern, Spring 2027 — [\"Remote - United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Whalar",
+   "key": "greenhouse:whalar",
+   "ok": true,
+   "jobsOnBoard": 10,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Ekimetrics",
+   "key": "lever:ekimetrics",
+   "ok": true,
+   "jobsOnBoard": 29,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London — [\"London\"]",
+     "Business Scientist Internship (6-month full-time) - Hong Kong - January 2027 — [\"Hong Kong\"]",
+     "Marketing Content & Communication Intern - Shanghai - Oct 2026 — [\"Shanghai\"]",
+     "Strategy & Data Science Internship - Shanghai — [\"Shanghai\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "6 months Internship in Strategy & Data Science | New York — [\"New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Anomaly",
+   "key": "lever:anomaly",
+   "ok": true,
+   "jobsOnBoard": 2,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Jellyfish",
+   "key": "ashby:jellyfish",
+   "ok": true,
+   "jobsOnBoard": 5,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "NBCUniversal",
+   "key": "smartrecruiters:NBCUniversal3",
+   "ok": true,
+   "jobsOnBoard": 527,
+   "matched": [
+    "NBC 4 New York Marketing & Digital Design Internships – Summer 2027",
+    "NBC News Communications, Marketing, and Research Internships – Summer 2027",
+    "NBC Local Production, Editorial, and Marketing News Internships – Summer 2027",
+    "Advertising & Partnerships: Ad Products Internships – Summer 2027",
+    "Advertising & Partnerships: Enterprise Marketing & Communications Internships – Summer 2027",
+    "Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027",
+    "Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027",
+    "Universal Pictures Publicity & Marketing Internships – Summer 2027",
+    "Advertising & Program Standards Internships – Summer 2027",
+    "Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027"
+   ],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "NBC Sports Programming Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Program Management & Operations Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC Telemundo Connecticut Sales Marketing Intern - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC Telemundo CT Multiplatform Creative Services Intern - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC Telemundo Connecticut Sales Intern - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC Connecticut Weather/Meteorology Internships - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC Connecticut Digital Producer Internships - Summer 2027 — [{\"city\":\"Hartford\",\"state\":\"Connecticut\",\"remote\":false,\"hybrid\":false,\"text\":\"",
+     "NBC News Bureau Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Film Production & Development Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Pictures Publicty & Marketing Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Focus Features Publicity & Marketing Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Digital Transformation AR/VR Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Film Production IT Support Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Film Global Distribution Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Marketing Intern (f/m/d) — [{\"city\":\"Vienna\",\"state\":\"VIENNA\",\"remote\":false,\"hybrid\":true,\"text\":\"Vienna, ",
+     "Software Engineering Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC News Production & Digital Editorial Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC and Telemundo Local South Florida News Internships – Summer 2027 — [{\"city\":\"Miramar\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miramar, F",
+     "NBCU Chicago Digital Editorial Intern – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "Telemundo Chicago News Intern – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "NBCU Chicago Sales Intern – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "Creative Marketing Intern, NBCU Local Chicago – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "NBC Chicago News Intern – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "NBC Chicago Community Relations and Special Events Intern – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"ILLINOIS\",\"remote\":false,\"hybrid\":false,\"text\":\"Chic",
+     "NBC Local Production, Editorial, and Marketing News Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "NBC Local Production, Editorial, and Marketing News Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Local Los Angeles News Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Local Boston News Internships – Summer 2027 — [{\"city\":\"Needham\",\"state\":\"MA\",\"remote\":false,\"hybrid\":false,\"text\":\"Needham, M",
+     "Telemundo 44 DC News Internships – Summer 2027 — [{\"city\":\"Washington\",\"state\":\"DC\",\"remote\":false,\"hybrid\":false,\"text\":\"Washing",
+     "NBC 4 DC News Internships – Summer 2027 — [{\"city\":\"Washington\",\"state\":\"DC\",\"remote\":false,\"hybrid\":false,\"text\":\"Washing",
+     "Ad Sales Sales & Sales Support Internships – Summer 2027 — [{\"city\":\"Birmingham\",\"state\":\"MI\",\"remote\":false,\"hybrid\":false,\"text\":\"Birming",
+     "Ad Sales Sales & Sales Support Internships – Summer 2027 — [{\"city\":\"Atlanta\",\"state\":\"GA\",\"remote\":false,\"hybrid\":false,\"text\":\"Atlanta, G",
+     "Ad Sales Sales & Sales Support Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Ad Sales Enterprise Marketing & Communications Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Ad Sales Enterprise Marketing & Communications Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Human Resources & Culture Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "Human Resources & Culture Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Legal Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "Legal Internships – Summer 2027 — [{\"city\":\"Washington\",\"state\":\"DC\",\"remote\":false,\"hybrid\":false,\"text\":\"Washing",
+     "Legal Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Finance Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "Finance Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC News Bureau Internships – Summer 2027 — [{\"city\":\"Chicago\",\"state\":\"IL\",\"remote\":false,\"hybrid\":false,\"text\":\"Chicago, I",
+     "NBC News Bureau Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "NBC News Bureau Internships – Summer 2027 — [{\"city\":\"Washington\",\"state\":\"DC\",\"remote\":false,\"hybrid\":false,\"text\":\"Washing",
+     "Music Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Government Affairs Internships – Summer 2027 — [{\"city\":\"Washington\",\"state\":\"DC\",\"remote\":false,\"hybrid\":false,\"text\":\"Washing",
+     "Government Affairs Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Program Management & Operations Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Media Tech: Data, AI & Machine Learning Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Media Tech: Product & Engineering Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "Franchise, Products & Partnerships: Communications, Marketing, Strategy Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Media Tech: Product & Engineering Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Sports Logistics & Inventory Operations Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Global Security & Intelligence Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Sports Production Operations Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Studio Operations, Data Analytics Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Sports Marketing Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Advertising & Program Standards Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Telemundo Production & Operations Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "Telemundo News, Digital, & Marketing Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "NBCUniversal International Strategy & Ad Sales Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
+     "NBC Sports Olympic Digital & Production Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
+     "Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Television Entertainment Finance Transformation Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "Universal Television Entertainment Production, Development & Programming Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
+     "NBC Sports Bay Area & California - Sales & Digital Media Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":true,\"text",
+     "NBC Sports Bay Area & California - Marketing Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":true,\"text",
+     "NBC Sports Bay Area & California - Finance Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":false,\"tex",
+     "NBC Sports Bay Area & California - Programming Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":true,\"text",
+     "NBC Sports Bay Area & California - Production Assistant Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":false,\"tex",
+     "Product Management UX Intern (Hayu) — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Media Product Management Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "TV Format Sales & Production Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Social Video Intern — [{\"city\":\"London\",\"state\":\"England\",\"remote\":false,\"hybrid\":true,\"text\":\"London,",
+     "Sales Strategy & Development Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Sales Intern (TV Distribution) — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Publicity Intern (Film) — [{\"city\":\"London\",\"state\":\"England\",\"remote\":false,\"hybrid\":true,\"text\":\"London,",
+     "Projects & Delivery Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Post Production Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Production & Operations Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Key Account Management Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "IT Workplace Operations Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":false,\"text\":\"London, , United Kingdom",
+     "Film Strategy Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Film Services Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Facilities & Operations Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":false,\"text\":\"London, , United Kingdom",
+     "Distribution Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Creative Services Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Content Strategy & Distribution Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Content Planning & Acquisitions Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Commercial Strategy & Operations Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Consumer Products Creative Operations Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Commercial Intern (Ad & Affiliate Sales) — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Business Solutions Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Business Licensing Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Business Data (Film IT) Intern — [{\"city\":\"London\",\"state\":\"England\",\"remote\":false,\"hybrid\":true,\"text\":\"London,",
+     "Audience Insights & Analytics Intern — [{\"city\":\"London\",\"state\":\"England\",\"remote\":false,\"hybrid\":true,\"text\":\"London,",
+     "Acquisitions & Production Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\"",
+     "Acquired Content Distribution Strategy Intern — [{\"city\":\"London\",\"remote\":false,\"hybrid\":true,\"text\":\"London, , United Kingdom\""
+    ],
+    "not a marketing / social / brand / sales role": [
+     "Legal Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "NBC News Production & Digital Editorial Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "NBC 4 New York Production & Editorial Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "The Tonight Show Starring Jimmy Fallon Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Universal Film Global Distribution Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Human Resources & Culture Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "NBC News Creative & Digital Design Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "NBC News Group Technology Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Advertising & Partnerships: Data Science Internship – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Finance Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Music Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Sustainability Strategy Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Government Affairs Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Streaming Platforms, Product Management Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Program Management & Operations Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Software Engineering Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Product Design Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Media Asset & Archival Management Internships – Summer 2027 — [{\"city\":\"North Bergen\",\"state\":\"NJ\",\"remote\":false,\"hybrid\":false,\"text\":\"North",
+     "Media Tech: Cybersecurity, Governance & Security Engineering Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Media Tech: Data, AI & Machine Learning Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Media Tech: Product & Engineering Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Global Security & Intelligence Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Universal Television Entertainment Production, Development & Programming Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,"
+    ]
+   }
+  },
+  {
+   "employer": "The New York Times",
+   "key": "greenhouse:thenewyorktimes",
+   "ok": true,
+   "jobsOnBoard": 118,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "News Assistant, Intern — [\"Paris, France\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Vox Media",
+   "key": "greenhouse:voxmedia",
+   "ok": true,
+   "jobsOnBoard": 21,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "BuzzFeed",
+   "key": "greenhouse:buzzfeed",
+   "ok": true,
+   "jobsOnBoard": 4,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "A24",
+   "key": "greenhouse:a24",
+   "ok": true,
+   "jobsOnBoard": 10,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Insider",
+   "key": "greenhouse:insider",
+   "ok": true,
+   "jobsOnBoard": 6,
+   "matched": [
+    "Audience Fellowship (January 2027)"
+   ],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Hearst",
+   "key": "greenhouse:hearst",
+   "ok": true,
+   "jobsOnBoard": 396,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Audience Intern - Summer 2027 — [\"Houston, TX, United States\"]",
+     "Audience Intern - Summer 2027 — [\"Houston, TX, United States\"]",
+     "Breaking News Intern - Summer 2027 — [\"Houston, TX, United States\"]",
+     "Creative Services Intern — [\"Manchester, NH, United States\"]",
+     "Food & Events Intern - Summer 2027 — [\"Dallas, TX, United States\"]",
+     "Houston Chronicle Visuals Internship - Summer 2027 — [\"Houston, TX, United States\"]",
+     "Intern — [\"Winter Park, FL, United States\"]",
+     "Local Government, Politics Intern - Summer 2027 — [\"Dallas, TX, United States\"]",
+     "Local News Intern - Summer 2027 — [\"Dallas, TX, United States\"]",
+     "News Intern — [\"Oklahoma City, OK, United States\"]",
+     "Photo Intern - Fall 2027 — [\"Dallas, TX, United States\"]",
+     "Software Engineering Intern — [\"Carmel, IN, United States\"]",
+     "Sports Intern - Fall 2027 — [\"Dallas, TX, United States\"]",
+     "WGAL News Intern - 2027 Spring — [\"Lancaster, PA, United States\"]",
+     "WMUR Engineering and Production Intern — [\"Manchester, NH, United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Penske Media",
+   "key": "greenhouse:pmc",
+   "ok": true,
+   "jobsOnBoard": 24,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Axios",
+   "key": "greenhouse:axios",
+   "ok": true,
+   "jobsOnBoard": 29,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Barstool Sports",
+   "key": "greenhouse:barstoolsports",
+   "ok": true,
+   "jobsOnBoard": 5,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Production Technology Intern - Spring 2026 — [\"Chicago, IL\"]"
+    ]
+   }
+  },
+  {
+   "employer": "SeatGeek",
+   "key": "greenhouse:seatgeek",
+   "ok": true,
+   "jobsOnBoard": 34,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Software Engineer - Internship — [\"New York, New York\"]",
+     "UX Design - Internship — [\"New York, New York\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Roku",
+   "key": "greenhouse:roku",
+   "ok": true,
+   "jobsOnBoard": 93,
+   "matched": [
+    "Ad Sales and Revenue Solutions Intern"
+   ],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "AI Engineering Internship Program (Summer 2027) — [\"Manchester, United Kingdom\"]",
+     "AI Engineering Internship Program (Summer 2027) — [\"Cambridge, United Kingdom\"]",
+     "Software Engineering Internship Program (Summer 2027) — [\"Cambridge, United Kingdom\"]",
+     "Software Engineering Internship Program (Summer 2027) — [\"Manchester, United Kingdom\"]",
+     "Software Engineer Intern, AI Engineering — [\"San Jose, California\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Fubo",
+   "key": "greenhouse:fubotv",
+   "ok": true,
+   "jobsOnBoard": 6,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Roblox",
+   "key": "greenhouse:roblox",
+   "ok": true,
+   "jobsOnBoard": 257,
+   "matched": [],
+   "skippedInternships": {
+    "graduate students only": [
+     "[2027] Applied Scientist - PhD Intern — [\"San Mateo, CA, United States\"]",
+     "[2027] Data Scientist - PhD Intern — [\"San Mateo, CA, United States\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "[Summer 2027 Canada] Software Engineer Intern, Engine — [\"Vancouver, British Columbia, Canada\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Epic Games",
+   "key": "greenhouse:epicgames",
+   "ok": true,
+   "jobsOnBoard": 134,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "AI Programmer Intern — [\"Cary,North Carolina,United States\"]",
+     "Communications Intern — [\"Cary,North Carolina,United States\"]",
+     "Engine Programmer Intern — [\"Cary,North Carolina,United States\"]",
+     "Level Design Intern — [\"Cary,North Carolina,United States\"]",
+     "Level Design Intern — [\"Cary,North Carolina,United States\"]",
+     "Machine Learning Intern — [\"London,England,United Kingdom\"]",
+     "Machine Learning Intern — [\"Montreal,Quebec,Canada\"]",
+     "Machine Learning Intern — [\"BLANK,BLANK,Multiple Locations\"]",
+     "SDET Intern — [\"Cary,North Carolina,United States\"]",
+     "Tools Programmer Intern — [\"Cary,North Carolina,United States\"]",
+     "Tools Programmer Intern (Graphics) — [\"Cary,North Carolina,United States\"]",
+     "Web Engineer Intern — [\"Novi Sad,Vojvodina,Serbia\"]",
+     "Web Engineer Intern — [\"London,England,United Kingdom\"]"
+    ],
+    "graduate students only": [
+     "Player Marketing Intern (MBA) — [\"Cary,North Carolina,United States\"]",
+     "Product Management Intern — [\"Cary,North Carolina,United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Riot Games",
+   "key": "greenhouse:riotgames",
+   "ok": true,
+   "jobsOnBoard": 204,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Animation Art Intern - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Concept Art Intern, Teamfight Tactics - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Motion Graphics Art Intern - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Rendering Technical Art Intern, League of Legends - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Rendering Technical Art Intern (Lighting), League of Legends - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Technical Game Design Intern - Summer 2027 — [\"Los Angeles, USA\"]"
+    ],
+    "graduate students only": [
+     "Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Data Engineering Intern - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Insights Analyst Intern, League of Legends - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Machine Learning Engineering Intern (Masters/PhD) - Summer 2027 — [\"Los Angeles, USA\"]"
+    ],
+    "senior / staff role": [
+     "Community Manager Intern - Summer 2027 — [\"Los Angeles, USA\"]",
+     "Social Media Manager Intern - Summer 2027 — [\"Los Angeles, USA\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Take-Two Interactive",
+   "key": "greenhouse:taketwo",
+   "ok": true,
+   "jobsOnBoard": 30,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "FanDuel",
+   "key": "greenhouse:fanduel",
+   "ok": true,
+   "jobsOnBoard": 105,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Fever",
+   "key": "greenhouse:feverup",
+   "ok": true,
+   "jobsOnBoard": 572,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Content Creator Intern - São Paulo Secreto — [\"Sao Paulo\"]",
+     "Global Operations Intern - Start January 2027 — [\"Madrid\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Philadelphia Eagles",
+   "key": "greenhouse:philadelphiaeagles",
+   "ok": true,
+   "jobsOnBoard": 1,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Spotify",
+   "key": "lever:spotify",
+   "ok": true,
+   "jobsOnBoard": 88,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Complex",
+   "key": "lever:Complex",
+   "ok": true,
+   "jobsOnBoard": 30,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "The Athletic",
+   "key": "lever:theathletic",
+   "ok": true,
+   "jobsOnBoard": 11,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "UK Newsroom Student Intern, Summer 2027 (London) — [\"London\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Morning Brew",
+   "key": "lever:morningbrew",
+   "ok": true,
+   "jobsOnBoard": 8,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Patreon",
+   "key": "ashby:patreon",
+   "ok": true,
+   "jobsOnBoard": 21,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Software Engineering Intern - Summer 2027 — [{\"city\":\"New York City\",\"state\":\"New York\",\"text\":\"New York City, New York\"}]",
+     "Product Design Intern - Summer 2027 — [{\"city\":\"New York City\",\"state\":\"New York\",\"text\":\"New York City, New York\"},{\""
+    ],
+    "outside allowed locations or unverifiable": [
+     "Software Engineering Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"California\",\"text\":\"San Francisco, California\""
+    ]
+   }
+  },
+  {
+   "employer": "Substack",
+   "key": "ashby:substack",
+   "ok": true,
+   "jobsOnBoard": 20,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Sotheby's",
+   "key": "greenhouse:sothebys",
+   "ok": true,
+   "jobsOnBoard": 71,
+   "matched": [
+    "2027 Summer Intern Program (New York)"
+   ],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "MongoDB",
+   "key": "greenhouse:mongodb",
+   "ok": true,
+   "jobsOnBoard": 421,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "2027 - AI and People Transformation Intern, NYC — [\"New York City\"]",
+     "2027 - Software Engineering Intern, AMER — [\"Austin; New York City; San Francisco\"]",
+     "2027 - Tax Intern, New York City — [\"New York City\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "2027 - Finance Intern, San Francisco — [\"San Francisco\"]",
+     "2027 - Software Engineer Intern, Dublin - 6 Month Internship — [\"Dublin\"]",
+     "2027 - Summer Software Engineer Intern, Dublin — [\"Dublin\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Datadog",
+   "key": "greenhouse:datadog",
+   "ok": true,
+   "jobsOnBoard": 384,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Applied Science Intern — [\"Paris, France\"]",
+     "IT Support Technician Intern — [\"Paris, France\"]",
+     "Software Engineering Intern — [\"Madrid, Spain\"]",
+     "Software Engineering Intern — [\"Paris, France\"]"
+    ],
+    "graduate students only": [
+     "Research Science Intern (PhD) — [\"New York, New York, USA; Pittsburgh, Pennsylvania, USA\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Braze",
+   "key": "greenhouse:braze",
+   "ok": true,
+   "jobsOnBoard": 355,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Intern, Software Engineering — [\"New York City\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Attentive",
+   "key": "greenhouse:attentive",
+   "ok": true,
+   "jobsOnBoard": 30,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Klaviyo",
+   "key": "greenhouse:klaviyo",
+   "ok": true,
+   "jobsOnBoard": 122,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Justworks",
+   "key": "greenhouse:justworks",
+   "ok": true,
+   "jobsOnBoard": 102,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Yext",
+   "key": "greenhouse:yext",
+   "ok": true,
+   "jobsOnBoard": 32,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Squarespace",
+   "key": "greenhouse:squarespace",
+   "ok": true,
+   "jobsOnBoard": 20,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Pinterest",
+   "key": "greenhouse:pinterest",
+   "ok": true,
+   "jobsOnBoard": 171,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Content Enablement Intern 2027 (USA) — [\"San Francisco, CA, US; Remote, US\"]",
+     "Machine Learning Intern 2027 (Dublin) — [\"Dublin, IE\"]",
+     "Machine Learning Intern 2027 (Toronto) — [\"Toronto, ON, CA\"]",
+     "Machine Learning Intern 2027 (Zurich) — [\"Zurich, CH\"]",
+     "Product Design Intern (USA) — [\"San Francisco, CA, US; Remote, US\"]",
+     "Sales Analytics Intern 2027 (USA) — [\"San Francisco, CA, US; Remote, US\"]",
+     "Software Engineering Intern 2027 (Dublin) — [\"Dublin, IE\"]",
+     "Software Engineering Intern 2027 (Toronto) — [\"Toronto, ON, CA\"]",
+     "Software Engineer Intern 2027 (USA) — [\"San Francisco, CA, US; Remote, US\"]",
+     "Solutions Engineer Intern 2027 (USA) — [\"San Francisco, CA, US; Remote, US\"]",
+     "Strategy & Operations Intern 2027 (USA) — [\"San Francisco, CA, US; Remote, CA, US\"]"
+    ],
+    "graduate students only": [
+     "Master's Data Science Internship 2027 (USA) — [\"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US\"]",
+     "Master's Machine Learning Internship 2027 (USA) — [\"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US\"]",
+     "PhD Data Science Internship 2027 (USA) — [\"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US\"]",
+     "PhD Machine Learning Internship 2027 (USA) — [\"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US\"]",
+     "Software Engineering Intern 2027 (Zurich) — [\"Zurich, CH\"]",
+     "UX Quantitative Research Intern (USA) — [\"Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Reddit",
+   "key": "greenhouse:reddit",
+   "ok": true,
+   "jobsOnBoard": 147,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Discord",
+   "key": "greenhouse:discord",
+   "ok": true,
+   "jobsOnBoard": 29,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Figma",
+   "key": "greenhouse:figma",
+   "ok": true,
+   "jobsOnBoard": 148,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Data Engineer Intern (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "Product Design Intern (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "Software Engineer Intern (Summer 2027) — [\"San Francisco, CA • New York, NY\"]"
+    ],
+    "graduate students only": [
+     "PhD Intern, AI Applied Scientist (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "PhD Intern, Data Science (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "PhD Intern, Security Engineer (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "PhD Intern, Software Engineer - Graphics (2027) — [\"San Francisco, CA • New York, NY\"]",
+     "PhD Intern, Software Engineer - Interaction Design (2027) — [\"San Francisco, CA • New York, NY\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "Software Engineer Intern (London, United Kingdom) (Summer 2027) — [\"London, England\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Duolingo",
+   "key": "greenhouse:duolingo",
+   "ok": true,
+   "jobsOnBoard": 53,
+   "matched": [],
+   "skippedInternships": {
+    "graduate students only": [
+     "AI Research Intern (PhD) — [\"New York, NY; Pittsburgh, PA\"]",
+     "Data Scientist, Intern (PhD) — [\"New York, NY; Pittsburgh, PA\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "Product Designer, Thrive Intern — [\"Pittsburgh, PA\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Later",
+   "key": "greenhouse:later",
+   "ok": true,
+   "jobsOnBoard": 33,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "ZipRecruiter",
+   "key": "greenhouse:ziprecruiter",
+   "ok": true,
+   "jobsOnBoard": 55,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Software Engineer - Intern — [\"Santa Monica, CA\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Airbnb",
+   "key": "greenhouse:airbnb",
+   "ok": true,
+   "jobsOnBoard": 199,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Brand Marketing Intern, France — [\"Paris, France\"]",
+     "Communications Intern, France — [\"Paris, France\"]",
+     "Marketing & CRM Intern, Experiences — [\"Paris, France\"]",
+     "Partnerships Enablement Intern — [\"Paris, France\"]",
+     "Sales Development Intern, Services, France — [\"Paris, France\"]",
+     "Sales Development Intern, Services, Italy — [\"Milan, Italy\"]",
+     "Sales Development Intern, Services, Spain — [\"Barcelona, Spain\"]",
+     "Software Engineering Intern (BS/MS) — [\"San Francisco, California\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Zocdoc",
+   "key": "greenhouse:zocdoc",
+   "ok": true,
+   "jobsOnBoard": 65,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Oscar Health",
+   "key": "greenhouse:oscar",
+   "ok": true,
+   "jobsOnBoard": 179,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Software Engineering Intern — [\"New York, New York, United States\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Flatiron Health",
+   "key": "greenhouse:flatironhealth",
+   "ok": true,
+   "jobsOnBoard": 22,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "HelloFresh",
+   "key": "greenhouse:hellofresh",
+   "ok": true,
+   "jobsOnBoard": 371,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Culinary Intern (f/m/x) — [\"Amsterdam, North Holland, Netherlands\"]",
+     "Delivery Operations Business Analyst Intern France et Benelux(M/F/X) — [\"Paris, Paris, France\"]",
+     "Growth Strategy Data Analyst - Intern (M/F/N) — [\"Paris, Paris, France\"]",
+     "Intern Menu Planning & Ingredients (f/m/x) — [\"Amsterdam, North Holland, Netherlands\"]",
+     "Logistics Operational Excellence Intern — [\"Amsterdam, North Holland, Netherlands\"]",
+     "Product Monetization Operations intern (M/F/X) — [\"Paris, Paris, France\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Sweetgreen",
+   "key": "greenhouse:sweetgreen",
+   "ok": true,
+   "jobsOnBoard": 73,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Olipop",
+   "key": "greenhouse:olipop",
+   "ok": true,
+   "jobsOnBoard": 10,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Misfits Market",
+   "key": "greenhouse:misfitsmarket",
+   "ok": true,
+   "jobsOnBoard": 46,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Instacart",
+   "key": "greenhouse:instacart",
+   "ok": true,
+   "jobsOnBoard": 95,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Peloton",
+   "key": "greenhouse:peloton",
+   "ok": true,
+   "jobsOnBoard": 45,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Equinox",
+   "key": "smartrecruiters:Equinox",
+   "ok": true,
+   "jobsOnBoard": 772,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Personal Trainer Internship, NYC — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
+     "Personal Trainer Internship, New Jersey — [{\"city\":\"Paramus\",\"state\":\"NJ\",\"remote\":false,\"hybrid\":false,\"text\":\"Paramus, N",
+     "Personal Trainer Internship, Philadelphia — [{\"city\":\"Philadelphia\",\"state\":\"PA\",\"remote\":false,\"hybrid\":false,\"text\":\"Phila"
+    ],
+    "outside allowed locations or unverifiable": [
+     "Personal Trainer Internship, Long Island — [{\"city\":\"Great Neck\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"Great N"
+    ],
+    "fully remote": [
+     "Personal Trainer Internship, Westchester — [{\"city\":\"Scarsdale\",\"state\":\"NY\",\"remote\":true,\"hybrid\":false,\"text\":\"Scarsdale"
+    ]
+   }
+  },
+  {
+   "employer": "Away",
+   "key": "ashby:away",
+   "ok": true,
+   "jobsOnBoard": 27,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Brooklinen",
+   "key": "ashby:brooklinen",
+   "ok": true,
+   "jobsOnBoard": 7,
+   "matched": [],
+   "skippedInternships": {}
+  },
+  {
+   "employer": "Notion",
+   "key": "ashby:notion",
+   "ok": true,
+   "jobsOnBoard": 171,
+   "matched": [],
+   "skippedInternships": {
+    "not a marketing / social / brand / sales role": [
+     "Software Engineer Intern (Summer 2027) — [{\"city\":\"San Francisco\",\"state\":\"California\",\"text\":\"San Francisco, California\"",
+     "Software Engineer Intern, Mobile (Winter 2027) — [{\"city\":\"San Francisco\",\"state\":\"California\",\"text\":\"San Francisco, California\"",
+     "Software Engineering Intern, Frontend (Summer 2027) — [{\"city\":\"New York\",\"state\":\"New York\",\"text\":\"New York, New York\"},{\"city\":\"San",
+     "Software Engineering Intern, iOS (Summer 2027) — [{\"city\":\"New York\",\"state\":\"New York\",\"text\":\"New York, New York\"}]",
+     "Product Design Intern (Summer 2027) — [{\"city\":\"New York\",\"state\":\"New York\",\"text\":\"New York, New York\"}]"
+    ]
+   }
+  },
+  {
+   "employer": "Palantir",
+   "key": "lever:palantir",
+   "ok": true,
+   "jobsOnBoard": 306,
+   "matched": [],
+   "skippedInternships": {
+    "outside allowed locations or unverifiable": [
+     "Deployment Strategist, Internship — [\"Paris, France\"]",
+     "Deployment Strategist, Internship - US Government — [\"Honolulu, HI\"]",
+     "Forward Deployed Software Engineer, Internship — [\"Paris, France\"]",
+     "Forward Deployed Software Engineer, Internship - AUS Government — [\"Sydney, Australia\"]",
+     "Forward Deployed Software Engineer, Internship - Commercial — [\"Seoul, South Korea\"]",
+     "Forward Deployed Software Engineer, Internship - UK Government — [\"London, United Kingdom\"]",
+     "Forward Deployed Software Engineer, Internship - US Government — [\"Honolulu, HI\"]",
+     "Forward Deployed Software Engineer, Internship - US Government — [\"Washington, D.C.\"]",
+     "Product Designer, Internship — [\"London, United Kingdom\"]",
+     "Product Designer, Internship - US Government — [\"Palo Alto, CA\"]",
+     "Product Designer, Internship - US Government — [\"Washington, D.C.\"]",
+     "Software Engineer, Internship — [\"Singapore, Singapore\"]",
+     "Software Engineer, Internship — [\"Denver, CO\"]",
+     "Software Engineer, Internship — [\"London, United Kingdom\"]",
+     "Software Engineer, Internship — [\"Washington, D.C.\"]",
+     "Software Engineer, Internship — [\"Palo Alto, CA\"]",
+     "Software Engineer, Internship - Connectivity Platform and Product — [\"Denver, CO\"]",
+     "Software Engineer, Internship - Defense Tech — [\"Palo Alto, CA\"]",
+     "Software Engineer, Internship - Defense Tech — [\"Washington, D.C.\"]",
+     "Software Engineer, Internship - Infrastructure — [\"Palo Alto, CA\"]",
+     "Software Engineer, Internship - Infrastructure — [\"London, United Kingdom\"]",
+     "Software Engineer, Internship - Production Infrastructure — [\"Seattle, WA\"]",
+     "Software Engineer, Internship - Production Infrastructure — [\"Washington, D.C.\"]",
+     "Software Engineer, Internship - Query Engines — [\"London, United Kingdom\"]",
+     "Software Engineer, Internship - Sovereign AI Systems — [\"London, United Kingdom\"]",
+     "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial — [\"Chicago, IL\"]",
+     "Year at Palantir - Forward Deployed Software Engineer, Internship - USG — [\"Washington, D.C.\"]"
+    ],
+    "not a marketing / social / brand / sales role": [
+     "Finance Operator Intern — [\"New York, NY\"]",
+     "Forward Deployed Software Engineer, Internship - France — [\"New York, NY\"]",
+     "Forward Deployed Software Engineer, Internship - US Government — [\"New York, NY\"]",
+     "Forward Deployed Software Engineer, Internship - Warp Speed — [\"New York, NY\"]",
+     "Information Security Engineer, Internship — [\"New York, NY\"]",
+     "Privacy and Civil Liberties Software Engineer, Internship — [\"New York, NY\"]",
+     "Product Designer, Internship — [\"New York, NY\"]",
+     "Product Designer, Internship - US Government — [\"New York, NY\"]",
+     "Software Engineer, Internship — [\"New York, NY\"]",
+     "Software Engineer, Internship - Connectivity Platform and Product — [\"New York, NY\"]",
+     "Software Engineer, Internship - Data Connectors — [\"New York, NY\"]",
+     "Software Engineer, Internship - Defense Tech — [\"New York, NY\"]",
+     "Software Engineer, Internship - Infrastructure — [\"New York, NY\"]",
+     "Software Engineer, Internship - Production Infrastructure — [\"New York, NY\"]",
+     "Software Engineer, Internship - Query Engines — [\"New York, NY\"]",
+     "Software Engineer, Internship - Sovereign AI Systems — [\"New York, NY\"]",
+     "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial — [\"New York, NY\"]",
+     "Year at Palantir - Forward Deployed Software Engineer, Internship - USG — [\"New York, NY\"]",
+     "Year at Palantir - Software Engineer, Internship — [\"New York, NY\"]"
+    ]
+   }
+  },
+  {
+   "employer": "Stand Together",
+   "key": "lever:standtogether",
+   "ok": true,
+   "jobsOnBoard": 131,
+   "matched": [],
+   "skippedInternships": {
+    "fully remote": [
+     "KIP Spring 2027 - Ballot Measures Team Intern - Ballotpedia — [\"Wisconsin\"]",
+     "KIP Spring 2027 - Law Team Intern - Ballotpedia — [\"Wisconsin\"]",
+     "KIP Spring 2027 - Policy Team Intern - Ballotpedia — [\"Wisconsin\"]",
+     "KIP Spring 2027 - Associate Policy Analyst Intern - National Taxpayers Union Foundation — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Coalitions Intern - Pacific Legal Foundation — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Communications & Operations Intern - James G. Martin Center for Academic Renewal — [\"North Carolina\"]",
+     "KIP Spring 2027 - Communications Intern - Empire Center for Public Policy — [\"New York\"]",
+     "KIP Spring 2027 - Communications Intern - Sutherland Institute — [\"Salt Lake City, Utah\"]",
+     "KIP Spring 2027 - Development Intern - Grassroot Institute of Hawaii — [\"Honolulu, Hawaii\"]",
+     "KIP Spring 2027 - Digital Communications Intern - R Street Institute — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Education Entrepreneurship Lab Intern - Foundation for Economic Education — [\"Georgia\"]",
+     "KIP Spring 2027 - Legislative Intern - Citizens Against Government Waste — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy — [\"New York\"]",
+     "KIP Spring 2027 - Policy Intern - Fulcrum Foundation — [\"Kentucky\"]",
+     "KIP Spring 2027 - Policy Intern - Grassroot Institute of Hawaii — [\"Honolulu, Hawaii\"]",
+     "KIP Spring 2027 - Policy Research & TikTok Content Intern - Sutherland Institute — [\"Salt Lake City, Utah\"]",
+     "KIP Spring 2027 - Programs Logistics Intern - Foundation for Economic Education — [\"Atlanta, Georgia\"]",
+     "KIP Spring 2027 - Programs Outreach Intern - Foundation for Economic Education — [\"Atlanta, Georgia\"]",
+     "KIP Spring 2027 - State Policies Intern - Marijuana Policy Project Foundation — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Strategic Leadership Intern - Fair For All — [\"New York, New York\"]",
+     "KIP Spring 2027 - Strategic Research Intern - Pacific Legal Foundation — [\"Arlington, Virginia\"]"
+    ],
+    "outside allowed locations or unverifiable": [
+     "KIP Spring 2027 - Analytics Intern - Illinois Policy Institute — [\"Chicago, Illinois\"]",
+     "KIP Spring 2027 - Campus Freedom Intern - The American Council of Trustees and Alumni — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Development and Fundraising Intern - Atlas Network — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Development Intern - Illinois Policy Institute — [\"Chicago, Illinois\"]",
+     "KIP Spring 2027 - Development Intern - Independence Institute — [\"Denver, Colorado\"]",
+     "KIP Spring 2027 - Development Intern - Media Research Center — [\"Virginia\"]",
+     "KIP Spring 2027 - Development Intern - The American Council of Trustees and Alumni — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Digital Media Intern - Taxpayers Protection Alliance Foundation — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Events Intern - Atlas Network — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Events Intern - Competitive Enterprise Institute — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Events Intern - R Street Institute — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Federal Tax Policy Intern - Tax Foundation — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Finance and Accounting Intern - American Legislative Exchange Council — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Fiscal Policy Intern - Independence Institute — [\"Denver, Colorado\"]",
+     "KIP Spring 2027 - Free Speech America Intern - Media Research Center — [\"Virginia\"]",
+     "KIP Spring 2027 - Government Affairs Intern - Georgia Public Policy Foundation — [\"Atlanta, Georgia\"]",
+     "KIP Spring 2027 - Government Affairs Intern - Media Research Center — [\"Virginia\"]",
+     "KIP Spring 2027 - Institute Relations and Grants Intern - Atlas Network — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Marketing and Communications Intern - Atlas Network — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Marketing Intern - Competitive Enterprise Institute — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Marketing Intern - Media Research Center — [\"Virginia\"]",
+     "KIP Spring 2027 - Membership and Development Intern - American Legislative Exchange Council — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - North America Programs Intern - Foundation for Economic Education — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Operations Intern - Foundation for Research on Equal Opportunity — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Policy and Research Intern - American Legislative Exchange Council — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Policy Intern - Taxpayers Protection Alliance Foundation — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Policy Research Intern - Bluegrass Institute — [\"Kentucky\"]",
+     "KIP Spring 2027 - Policy/Research Intern - Competitive Enterprise Institute — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Programs & Events Intern - America's Future — [\"Washington, DC\"]",
+     "KIP Spring 2027 - Public Affairs Intern - American Legislative Exchange Council — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Research Intern - Paragon Health Institute — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Training and Education Intern - Atlas Network — [\"Arlington, Virginia\"]",
+     "KIP Spring 2027 - Trustee & Government Affairs Intern - The American Council of Trustees and Alumni — [\"Washington, DC\"]"
+    ]
+   }
+  }
+ ],
+ "finishedAt": "2026-11-23T21:55:46.874Z"
+}

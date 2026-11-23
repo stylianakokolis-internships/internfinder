@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Internship Finder</title>
+  <meta name="description" content="Marketing, social media, brand and sales internships in NJ, Philadelphia and New York City — refreshed daily.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23bb0000'/><text x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'>IF</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <h1>Internship Finder</h1>
+        <p class="sub" id="regionsLine">New Jersey · Philadelphia · New York City</p>
+      </div>
+      <p class="refresh" id="refreshLine" aria-live="polite">Loading…</p>
+    </div>
+  </header>
+
+  <nav class="tabs-bar" aria-label="Role sections">
+    <div class="wrap tabs" id="tabs" role="tablist"></div>
+  </nav>
+
+  <main class="wrap">
+    <section class="filters" aria-label="Filters">
+      <label class="search">
+        <span class="visually-hidden">Search companies and keywords</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.32 12.9l5.39 5.4-1.41 1.4-5.4-5.39A8 8 0 1 1 10 2Zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/></svg>
+        <input id="search" type="search" placeholder="Search company or keyword (e.g. beauty, TikTok, PR)" autocomplete="off">
+      </label>
+
+      <div class="chips" id="industryChips" role="group" aria-label="Industry"></div>
+
+      <div class="selects">
+        <label>Location
+          <select id="locationFilter"><option value="">All locations</option></select>
+        </label>
+        <label>Term
+          <select id="termFilter"><option value="">All terms</option></select>
+        </label>
+        <label class="check"><input type="checkbox" id="hideApplied"> Hide applied</label>
+        <button type="button" class="link-btn" id="clearFilters">Clear filters</button>
+      </div>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+    <ol class="list" id="list"></ol>
+    <div class="empty" id="empty" hidden></div>
+  </main>
+
+  <footer class="wrap site-footer">
+    <details>
+      <summary>Your saved &amp; applied list</summary>
+      <p>Saved and Applied marks are stored in this browser and stay through every daily refresh.
+        To move them to another device, export here and import there.</p>
+      <div class="footer-actions">
+        <button type="button" id="exportBtn">Export my list</button>
+        <label class="file-btn">Import list<input type="file" id="importInput" accept="application/json,.json"></label>
+      </div>
+    </details>
+    <details>
+      <summary>Data sources</summary>
+      <p id="sourcesSummary"></p>
+      <ul id="sourceProblems" class="source-problems"></ul>
+    </details>
+  </footer>
+
+  <template id="cardTpl">
+    <li class="card">
+      <div class="card-top">
+        <div class="card-head">
+          <h2 class="title"></h2>
+          <p class="company"></p>
+        </div>
+        <div class="badges"></div>
+      </div>
+      <p class="meta"></p>
+      <div class="tags"></div>
+      <dl class="facts"></dl>
+      <div class="actions">
+        <a class="apply" target="_blank" rel="noopener noreferrer">Apply</a>
+        <button type="button" class="save" aria-pressed="false">Save</button>
+        <button type="button" class="applied" aria-pressed="false">Mark applied</button>
+      </div>
+      <div class="more-links"></div>
+    </li>
+  </template>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
