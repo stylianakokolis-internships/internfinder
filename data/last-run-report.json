@@ -1,11 +1,11 @@
 {
- "startedAt": "2026-11-27T13:08:15.764Z",
+ "startedAt": "2026-11-28T14:03:09.019Z",
  "employers": [
   {
    "employer": "Glossier",
    "key": "greenhouse:glossier",
    "ok": true,
-   "jobsOnBoard": 17,
+   "jobsOnBoard": 16,
    "matched": [],
    "skippedInternships": {}
   },
@@ -101,7 +101,7 @@
    "employer": "Mejuri",
    "key": "greenhouse:mejuri",
    "ok": true,
-   "jobsOnBoard": 179,
+   "jobsOnBoard": 181,
    "matched": [],
    "skippedInternships": {}
   },
@@ -133,7 +133,7 @@
    "employer": "Alo Yoga",
    "key": "greenhouse:aloyoga",
    "ok": true,
-   "jobsOnBoard": 729,
+   "jobsOnBoard": 728,
    "matched": [],
    "skippedInternships": {
     "graduate students only": [
@@ -161,12 +161,11 @@
    "employer": "Vestiaire Collective",
    "key": "lever:vestiairecollective",
    "ok": true,
-   "jobsOnBoard": 12,
+   "jobsOnBoard": 11,
    "matched": [],
    "skippedInternships": {
     "graduate students only": [
-     "Legal Intern IP/IT & Business Affairs - July 2027 — [\"Paris\"]",
-     "Performance Marketing Intern - January 2027 — [\"Paris\"]"
+     "Legal Intern IP/IT & Business Affairs - July 2027 — [\"Paris\"]"
     ],
     "outside allowed locations or unverifiable": [
      "Marketplace Performance Intern - January 2027 — [\"Paris\"]"
@@ -206,7 +205,7 @@
    "employer": "Robinhood",
    "key": "greenhouse:robinhood",
    "ok": true,
-   "jobsOnBoard": 161,
+   "jobsOnBoard": 162,
    "matched": [],
    "skippedInternships": {
     "not a marketing / social / brand / sales role": [
@@ -222,12 +221,9 @@
    "employer": "Stripe",
    "key": "greenhouse:stripe",
    "ok": true,
-   "jobsOnBoard": 766,
+   "jobsOnBoard": 771,
    "matched": [],
    "skippedInternships": {
-    "not a marketing / social / brand / sales role": [
-     "Data Analyst, Intern — [\"New York, Seattle, South San Francisco HQ\"]"
-    ],
     "outside allowed locations or unverifiable": [
      "Data Analyst, Intern — [\"Toronto\"]",
      "Financial Data Analyst Intern, Technical Operations — [\"Singapore\"]",
@@ -235,20 +231,23 @@
      "Integration Reliability Engineer Intern, Technical Operations — [\"Singapore\"]",
      "Product Design Intern — [\"San Francisco, Seattle, New York City\"]",
      "Product Design Intern — [\"Toronto\"]",
-     "Software Engineer, Intern — [\"Singapore\"]",
      "Software Engineer, Intern — [\"London\"]",
+     "Software Engineer, Intern — [\"Singapore\"]",
      "Software Engineer, Intern — [\"Bucharest\"]",
      "Software Engineer, Intern (Summer) — [\"Toronto\"]",
      "Software Engineer, Intern (Summer) — [\"San Francisco, Seattle, New York City\"]",
      "Software Engineer, Intern (Summer or Winter) — [\"Dublin\"]"
     ],
+    "not a marketing / social / brand / sales role": [
+     "Data Analyst, Intern — [\"New York, Seattle, South San Francisco HQ\"]"
+    ],
     "graduate students only": [
-     "Master's Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]",
      "Master's Machine Learning Engineer, Intern — [\"Toronto\"]",
+     "Master's Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]",
      "PhD Data Scientist, Intern — [\"Toronto\"]",
      "PhD Data Scientist, Intern — [\"New York, Seattle, South San Francisco HQ\"]",
-     "PhD Machine Learning Engineer, Intern — [\"Toronto\"]",
-     "PhD Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]"
+     "PhD Machine Learning Engineer, Intern — [\"San Francisco, New York City, Seattle\"]",
+     "PhD Machine Learning Engineer, Intern — [\"Toronto\"]"
     ]
    }
   },
@@ -269,7 +268,7 @@
    "employer": "Affirm",
    "key": "greenhouse:affirm",
    "ok": true,
-   "jobsOnBoard": 216,
+   "jobsOnBoard": 218,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -282,7 +281,7 @@
    "employer": "Chime",
    "key": "greenhouse:chime",
    "ok": true,
-   "jobsOnBoard": 77,
+   "jobsOnBoard": 76,
    "matched": [],
    "skippedInternships": {}
   },
@@ -290,7 +289,7 @@
    "employer": "SoFi",
    "key": "greenhouse:sofi",
    "ok": true,
-   "jobsOnBoard": 58,
+   "jobsOnBoard": 57,
    "matched": [],
    "skippedInternships": {}
   },
@@ -298,7 +297,7 @@
    "employer": "Betterment",
    "key": "greenhouse:betterment",
    "ok": true,
-   "jobsOnBoard": 23,
+   "jobsOnBoard": 22,
    "matched": [],
    "skippedInternships": {}
   },
@@ -354,7 +353,7 @@
    "employer": "Schonfeld",
    "key": "greenhouse:schonfeld",
    "ok": true,
-   "jobsOnBoard": 67,
+   "jobsOnBoard": 66,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -453,7 +452,7 @@
    "employer": "Mercury",
    "key": "greenhouse:mercury",
    "ok": true,
-   "jobsOnBoard": 68,
+   "jobsOnBoard": 67,
    "matched": [],
    "skippedInternships": {}
   },
@@ -461,7 +460,7 @@
    "employer": "Payoneer",
    "key": "greenhouse:payoneer",
    "ok": true,
-   "jobsOnBoard": 95,
+   "jobsOnBoard": 94,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -493,7 +492,7 @@
    "employer": "Clear Street",
    "key": "greenhouse:clearstreet",
    "ok": true,
-   "jobsOnBoard": 32,
+   "jobsOnBoard": 31,
    "matched": [],
    "skippedInternships": {}
   },
@@ -501,7 +500,7 @@
    "employer": "Carta",
    "key": "greenhouse:carta",
    "ok": true,
-   "jobsOnBoard": 81,
+   "jobsOnBoard": 82,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -579,7 +578,7 @@
    "employer": "VaynerMedia",
    "key": "greenhouse:vaynermedia",
    "ok": true,
-   "jobsOnBoard": 96,
+   "jobsOnBoard": 95,
    "matched": [],
    "skippedInternships": {}
   },
@@ -611,7 +610,7 @@
    "employer": "Monks",
    "key": "greenhouse:monks",
    "ok": true,
-   "jobsOnBoard": 326,
+   "jobsOnBoard": 322,
    "matched": [],
    "skippedInternships": {}
   },
@@ -658,14 +657,13 @@
    "employer": "Interbrand",
    "key": "greenhouse:interbrand",
    "ok": true,
-   "jobsOnBoard": 17,
+   "jobsOnBoard": 16,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
      "BECA CURRICULAR_ CLIENT SERVICES INTERN — [\"Madrid\"]",
      "Intern- Analyst — [\"Madrid\"]",
-     "Praktikum Brand Design // Intern Brand Design (m/f/d) — [\"Cologne\"]",
-     "Praktikum Brand Strategy // Intern Brand Strategy (m/f/d) — [\"Cologne\"]"
+     "Praktikum Brand Design // Intern Brand Design (m/f/d) — [\"Cologne\"]"
     ]
    }
   },
@@ -704,7 +702,7 @@
    "employer": "Landor",
    "key": "greenhouse:landor",
    "ok": true,
-   "jobsOnBoard": 57,
+   "jobsOnBoard": 58,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -712,8 +710,8 @@
      "Design Intern — [\"Shanghai\"]",
      "Springboard Internship - Architecture — [\"Mumbai\"]",
      "Springboard Internship - Client Services — [\"Delhi\"]",
-     "Springboard Internship - Creative 2D — [\"Delhi\"]",
      "Springboard Internship - Creative 2D — [\"Mumbai\"]",
+     "Springboard Internship - Creative 2D — [\"Delhi\"]",
      "Springboard Internship - Strategy — [\"Mumbai\"]",
      "Strategy Intern — [\"Shanghai\"]"
     ]
@@ -840,7 +838,7 @@
    "employer": "Ekimetrics",
    "key": "lever:ekimetrics",
    "ok": true,
-   "jobsOnBoard": 29,
+   "jobsOnBoard": 27,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -874,18 +872,15 @@
    "employer": "NBCUniversal",
    "key": "smartrecruiters:NBCUniversal3",
    "ok": true,
-   "jobsOnBoard": 545,
+   "jobsOnBoard": 539,
    "matched": [
-    "NBC 4 New York Marketing & Digital Design Internships – Summer 2027",
-    "NBC News Communications, Marketing, and Research Internships – Summer 2027",
     "NBC Local Production, Editorial, and Marketing News Internships – Summer 2027",
     "Advertising & Partnerships: Ad Products Internships – Summer 2027",
     "Advertising & Partnerships: Enterprise Marketing & Communications Internships – Summer 2027",
     "Advertising & Partnerships: Sales & Sales Support Internships – Summer 2027",
     "Platform Distribution & Partnerships: Business Development, Sales & Marketing Internships – Summer 2027",
     "Universal Pictures Publicity & Marketing Internships – Summer 2027",
-    "Advertising & Program Standards Internships – Summer 2027",
-    "Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027"
+    "Advertising & Program Standards Internships – Summer 2027"
    ],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -964,8 +959,6 @@
      "NBCUniversal International Strategy & Ad Sales Internships – Summer 2027 — [{\"city\":\"Miami\",\"state\":\"FL\",\"remote\":false,\"hybrid\":false,\"text\":\"Miami, FL, U",
      "NBC Sports Olympic Digital & Production Internships – Summer 2027 — [{\"city\":\"Stamford\",\"state\":\"CT\",\"remote\":false,\"hybrid\":false,\"text\":\"Stamford,",
      "Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
-     "Universal Television Entertainment Finance Transformation Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
-     "Universal Television Entertainment Marketing, Communications & Brand Strategy Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
      "Universal Television Entertainment Production, Development & Programming Internships – Summer 2027 — [{\"city\":\"Universal City\",\"state\":\"CA\",\"remote\":false,\"hybrid\":false,\"text\":\"Uni",
      "NBC Sports Bay Area & California - Sales & Digital Media Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":true,\"text",
      "NBC Sports Bay Area & California - Marketing Intern - Summer 2027 — [{\"city\":\"San Francisco\",\"state\":\"CALIFORNIA\",\"remote\":false,\"hybrid\":true,\"text",
@@ -1009,7 +1002,6 @@
      "Universal Film Global Distribution Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
      "Human Resources & Culture Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
      "NBC News Creative & Digital Design Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
-     "NBC News Group Technology Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
      "Advertising & Partnerships: Data Science Internship – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
      "Finance Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
      "Music Internships – Summer 2027 — [{\"city\":\"New York\",\"state\":\"NY\",\"remote\":false,\"hybrid\":false,\"text\":\"New York,",
@@ -1146,16 +1138,12 @@
    "employer": "Roku",
    "key": "greenhouse:roku",
    "ok": true,
-   "jobsOnBoard": 92,
+   "jobsOnBoard": 88,
    "matched": [
     "Ad Sales and Revenue Solutions Intern"
    ],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
-     "AI Engineering Internship Program (Summer 2027) — [\"Manchester, United Kingdom\"]",
-     "AI Engineering Internship Program (Summer 2027) — [\"Cambridge, United Kingdom\"]",
-     "Software Engineering Internship Program (Summer 2027) — [\"Manchester, United Kingdom\"]",
-     "Software Engineering Internship Program (Summer 2027) — [\"Cambridge, United Kingdom\"]",
      "Software Engineer Intern, AI Engineering — [\"San Jose, California\"]"
     ]
    }
@@ -1172,7 +1160,7 @@
    "employer": "Roblox",
    "key": "greenhouse:roblox",
    "ok": true,
-   "jobsOnBoard": 259,
+   "jobsOnBoard": 257,
    "matched": [],
    "skippedInternships": {
     "graduate students only": [
@@ -1197,9 +1185,9 @@
      "Engine Programmer Intern — [\"Cary,North Carolina,United States\"]",
      "Level Design Intern — [\"Cary,North Carolina,United States\"]",
      "Level Design Intern — [\"Cary,North Carolina,United States\"]",
-     "Machine Learning Intern — [\"BLANK,BLANK,Multiple Locations\"]",
-     "Machine Learning Intern — [\"Montreal,Quebec,Canada\"]",
      "Machine Learning Intern — [\"London,England,United Kingdom\"]",
+     "Machine Learning Intern — [\"Montreal,Quebec,Canada\"]",
+     "Machine Learning Intern — [\"BLANK,BLANK,Multiple Locations\"]",
      "SDET Intern — [\"Cary,North Carolina,United States\"]",
      "Tools Programmer Intern — [\"Cary,North Carolina,United States\"]",
      "Tools Programmer Intern (Graphics) — [\"Cary,North Carolina,United States\"]"
@@ -1258,7 +1246,7 @@
    "employer": "Fever",
    "key": "greenhouse:feverup",
    "ok": true,
-   "jobsOnBoard": 578,
+   "jobsOnBoard": 599,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -1279,7 +1267,7 @@
    "employer": "Spotify",
    "key": "lever:spotify",
    "ok": true,
-   "jobsOnBoard": 97,
+   "jobsOnBoard": 98,
    "matched": [],
    "skippedInternships": {}
   },
@@ -1349,7 +1337,7 @@
    "employer": "MongoDB",
    "key": "greenhouse:mongodb",
    "ok": true,
-   "jobsOnBoard": 426,
+   "jobsOnBoard": 424,
    "matched": [],
    "skippedInternships": {
     "not a marketing / social / brand / sales role": [
@@ -1368,14 +1356,14 @@
    "employer": "Datadog",
    "key": "greenhouse:datadog",
    "ok": true,
-   "jobsOnBoard": 391,
+   "jobsOnBoard": 392,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
      "Applied Science Intern — [\"Paris, France\"]",
      "IT Support Technician Intern — [\"Paris, France\"]",
-     "Software Engineering Intern — [\"Paris, France\"]",
-     "Software Engineering Intern — [\"Madrid, Spain\"]"
+     "Software Engineering Intern — [\"Madrid, Spain\"]",
+     "Software Engineering Intern — [\"Paris, France\"]"
     ],
     "graduate students only": [
      "Research Science Intern (PhD) — [\"New York, New York, USA; Pittsburgh, Pennsylvania, USA\"]"
@@ -1386,7 +1374,7 @@
    "employer": "Braze",
    "key": "greenhouse:braze",
    "ok": true,
-   "jobsOnBoard": 351,
+   "jobsOnBoard": 357,
    "matched": [],
    "skippedInternships": {
     "not a marketing / social / brand / sales role": [
@@ -1406,7 +1394,7 @@
    "employer": "Klaviyo",
    "key": "greenhouse:klaviyo",
    "ok": true,
-   "jobsOnBoard": 123,
+   "jobsOnBoard": 124,
    "matched": [],
    "skippedInternships": {}
   },
@@ -1438,7 +1426,7 @@
    "employer": "Pinterest",
    "key": "greenhouse:pinterest",
    "ok": true,
-   "jobsOnBoard": 166,
+   "jobsOnBoard": 165,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -1484,7 +1472,7 @@
    "employer": "Figma",
    "key": "greenhouse:figma",
    "ok": true,
-   "jobsOnBoard": 141,
+   "jobsOnBoard": 140,
    "matched": [],
    "skippedInternships": {
     "not a marketing / social / brand / sales role": [
@@ -1524,7 +1512,7 @@
    "employer": "Later",
    "key": "greenhouse:later",
    "ok": true,
-   "jobsOnBoard": 35,
+   "jobsOnBoard": 34,
    "matched": [],
    "skippedInternships": {}
   },
@@ -1563,7 +1551,7 @@
    "employer": "Zocdoc",
    "key": "greenhouse:zocdoc",
    "ok": true,
-   "jobsOnBoard": 64,
+   "jobsOnBoard": 63,
    "matched": [],
    "skippedInternships": {}
   },
@@ -1594,7 +1582,7 @@
    "employer": "HelloFresh",
    "key": "greenhouse:hellofresh",
    "ok": true,
-   "jobsOnBoard": 356,
+   "jobsOnBoard": 354,
    "matched": [],
    "skippedInternships": {
     "outside allowed locations or unverifiable": [
@@ -1822,5 +1810,5 @@
    }
   }
  ],
- "finishedAt": "2026-11-27T13:08:30.419Z"
+ "finishedAt": "2026-11-28T14:03:22.775Z"
 }

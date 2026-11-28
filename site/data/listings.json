@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "lastSuccessfulRefresh": "2026-11-27T13:08:30.419Z",
- "lastRunStartedAt": "2026-11-27T13:08:15.764Z",
+ "lastSuccessfulRefresh": "2026-11-28T14:03:22.775Z",
+ "lastRunStartedAt": "2026-11-28T14:03:09.019Z",
  "sourcesOk": 132,
  "sourcesTotal": 133,
  "config": {
@@ -37,17 +37,17 @@
   "greenhouse:glossier": {
    "employer": "Glossier",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 17,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 16,
    "matched": 0,
    "error": null
   },
   "greenhouse:soldejaneiro": {
    "employer": "Sol de Janeiro",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 46,
    "matched": 0,
    "error": null
@@ -55,8 +55,8 @@
   "greenhouse:supergoop": {
    "employer": "Supergoop!",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 7,
    "matched": 0,
    "error": null
@@ -64,8 +64,8 @@
   "greenhouse:harrys": {
    "employer": "Harry's",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -73,8 +73,8 @@
   "ashby:billie": {
    "employer": "Billie",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 1,
    "matched": 0,
    "error": null
@@ -82,8 +82,8 @@
   "greenhouse:renttherunway": {
    "employer": "Rent the Runway",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 25,
    "matched": 0,
    "error": null
@@ -91,8 +91,8 @@
   "greenhouse:reformation": {
    "employer": "Reformation",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 142,
    "matched": 0,
    "error": null
@@ -100,8 +100,8 @@
   "greenhouse:everlane": {
    "employer": "Everlane",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 31,
    "matched": 0,
    "error": null
@@ -109,8 +109,8 @@
   "greenhouse:aimeleondore": {
    "employer": "Aimé Leon Dore",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 11,
    "matched": 0,
    "error": null
@@ -118,8 +118,8 @@
   "greenhouse:veronicabeard": {
    "employer": "Veronica Beard",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 72,
    "matched": 0,
    "error": null
@@ -127,8 +127,8 @@
   "greenhouse:thirdlove": {
    "employer": "ThirdLove",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -136,8 +136,8 @@
   "greenhouse:cuyana": {
    "employer": "Cuyana",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 1,
    "matched": 0,
    "error": null
@@ -145,17 +145,17 @@
   "greenhouse:mejuri": {
    "employer": "Mejuri",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 179,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 181,
    "matched": 0,
    "error": null
   },
   "greenhouse:baublebar": {
    "employer": "BaubleBar",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 10,
    "matched": 0,
    "error": null
@@ -163,8 +163,8 @@
   "greenhouse:rebag": {
    "employer": "Rebag",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 13,
    "matched": 0,
    "error": null
@@ -172,8 +172,8 @@
   "greenhouse:stockx": {
    "employer": "StockX",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 24,
    "matched": 0,
    "error": null
@@ -181,17 +181,17 @@
   "greenhouse:aloyoga": {
    "employer": "Alo Yoga",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 729,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 728,
    "matched": 0,
    "error": null
   },
   "greenhouse:businessoffashion": {
    "employer": "The Business of Fashion",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -199,8 +199,8 @@
   "lever:goodamerican": {
    "employer": "Good American",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 6,
    "matched": 0,
    "error": null
@@ -208,17 +208,17 @@
   "lever:vestiairecollective": {
    "employer": "Vestiaire Collective",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 12,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 11,
    "matched": 0,
    "error": null
   },
   "lever:hypebeast": {
    "employer": "Hypebeast",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 19,
    "matched": 1,
    "error": null
@@ -226,7 +226,7 @@
   "ashby:farfetch": {
    "employer": "FARFETCH",
    "ok": false,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
    "lastSuccess": "2026-11-24T15:25:47.389Z",
    "rawCount": 40,
    "matched": 0,
@@ -235,8 +235,8 @@
   "ashby:poshmark": {
    "employer": "Poshmark",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 21,
    "matched": 0,
    "error": null
@@ -244,26 +244,26 @@
   "greenhouse:robinhood": {
    "employer": "Robinhood",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 161,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 162,
    "matched": 0,
    "error": null
   },
   "greenhouse:stripe": {
    "employer": "Stripe",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 766,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 771,
    "matched": 0,
    "error": null
   },
   "greenhouse:brex": {
    "employer": "Brex",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 266,
    "matched": 0,
    "error": null
@@ -271,44 +271,44 @@
   "greenhouse:affirm": {
    "employer": "Affirm",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 216,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 218,
    "matched": 0,
    "error": null
   },
   "greenhouse:chime": {
    "employer": "Chime",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 77,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 76,
    "matched": 0,
    "error": null
   },
   "greenhouse:sofi": {
    "employer": "SoFi",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 58,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 57,
    "matched": 0,
    "error": null
   },
   "greenhouse:betterment": {
    "employer": "Betterment",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 23,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 22,
    "matched": 0,
    "error": null
   },
   "greenhouse:point72": {
    "employer": "Point72",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 200,
    "matched": 0,
    "error": null
@@ -316,8 +316,8 @@
   "greenhouse:bridgewater89": {
    "employer": "Bridgewater Associates",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -325,17 +325,17 @@
   "greenhouse:schonfeld": {
    "employer": "Schonfeld",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 67,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 66,
    "matched": 0,
    "error": null
   },
   "greenhouse:gemini": {
    "employer": "Gemini",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 22,
    "matched": 0,
    "error": null
@@ -343,8 +343,8 @@
   "greenhouse:galaxydigitalservices": {
    "employer": "Galaxy",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 53,
    "matched": 1,
    "error": null
@@ -352,8 +352,8 @@
   "greenhouse:fiveringsllc": {
    "employer": "Five Rings",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 22,
    "matched": 0,
    "error": null
@@ -361,8 +361,8 @@
   "greenhouse:grahamcapitalmanagement": {
    "employer": "Graham Capital Management",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 13,
    "matched": 0,
    "error": null
@@ -370,26 +370,26 @@
   "greenhouse:mercury": {
    "employer": "Mercury",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 68,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 67,
    "matched": 0,
    "error": null
   },
   "greenhouse:payoneer": {
    "employer": "Payoneer",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 95,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 94,
    "matched": 0,
    "error": null
   },
   "greenhouse:aqr": {
    "employer": "AQR Capital Management",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 44,
    "matched": 0,
    "error": null
@@ -397,8 +397,8 @@
   "greenhouse:janestreet": {
    "employer": "Jane Street",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 219,
    "matched": 1,
    "error": null
@@ -406,26 +406,26 @@
   "greenhouse:clearstreet": {
    "employer": "Clear Street",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 32,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 31,
    "matched": 0,
    "error": null
   },
   "greenhouse:carta": {
    "employer": "Carta",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 81,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 82,
    "matched": 0,
    "error": null
   },
   "greenhouse:public": {
    "employer": "Public.com",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 4,
    "matched": 0,
    "error": null
@@ -433,8 +433,8 @@
   "lever:wealthfront": {
    "employer": "Wealthfront",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 19,
    "matched": 0,
    "error": null
@@ -442,8 +442,8 @@
   "ashby:ramp": {
    "employer": "Ramp",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 183,
    "matched": 0,
    "error": null
@@ -451,8 +451,8 @@
   "ashby:plaid": {
    "employer": "Plaid",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 144,
    "matched": 0,
    "error": null
@@ -460,8 +460,8 @@
   "ashby:paxos": {
    "employer": "Paxos",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 25,
    "matched": 0,
    "error": null
@@ -469,8 +469,8 @@
   "ashby:acorns": {
    "employer": "Acorns",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 8,
    "matched": 0,
    "error": null
@@ -478,8 +478,8 @@
   "ashby:nerdwallet": {
    "employer": "NerdWallet",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 27,
    "matched": 0,
    "error": null
@@ -487,17 +487,17 @@
   "greenhouse:vaynermedia": {
    "employer": "VaynerMedia",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 96,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 95,
    "matched": 0,
    "error": null
   },
   "greenhouse:codeandtheory": {
    "employer": "Code and Theory",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 47,
    "matched": 0,
    "error": null
@@ -505,8 +505,8 @@
   "greenhouse:hugeinc": {
    "employer": "Huge",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 14,
    "matched": 0,
    "error": null
@@ -514,8 +514,8 @@
   "greenhouse:rga": {
    "employer": "R/GA",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 13,
    "matched": 0,
    "error": null
@@ -523,17 +523,17 @@
   "greenhouse:monks": {
    "employer": "Monks",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 326,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 322,
    "matched": 0,
    "error": null
   },
   "greenhouse:dept": {
    "employer": "DEPT",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 204,
    "matched": 0,
    "error": null
@@ -541,8 +541,8 @@
   "greenhouse:webershandwick": {
    "employer": "Weber Shandwick",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 21,
    "matched": 0,
    "error": null
@@ -550,8 +550,8 @@
   "greenhouse:wpp": {
    "employer": "WPP",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 203,
    "matched": 0,
    "error": null
@@ -559,17 +559,17 @@
   "greenhouse:interbrand": {
    "employer": "Interbrand",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 17,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 16,
    "matched": 0,
    "error": null
   },
   "greenhouse:fleishmanhillard": {
    "employer": "FleishmanHillard",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 2,
    "matched": 0,
    "error": null
@@ -577,8 +577,8 @@
   "greenhouse:prophet": {
    "employer": "Prophet",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -586,17 +586,17 @@
   "greenhouse:landor": {
    "employer": "Landor",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 57,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 58,
    "matched": 0,
    "error": null
   },
   "greenhouse:akqa": {
    "employer": "AKQA",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 45,
    "matched": 0,
    "error": null
@@ -604,8 +604,8 @@
   "greenhouse:rapp": {
    "employer": "RAPP",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 7,
    "matched": 0,
    "error": null
@@ -613,8 +613,8 @@
   "greenhouse:5wpr": {
    "employer": "5WPR",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -622,8 +622,8 @@
   "greenhouse:berlinrosen": {
    "employer": "BerlinRosen",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 17,
    "matched": 0,
    "error": null
@@ -631,8 +631,8 @@
   "greenhouse:golin": {
    "employer": "Golin",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -640,8 +640,8 @@
   "greenhouse:mbooth": {
    "employer": "M Booth",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 11,
    "matched": 0,
    "error": null
@@ -649,8 +649,8 @@
   "greenhouse:octagon": {
    "employer": "Octagon",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 4,
    "matched": 0,
    "error": null
@@ -658,8 +658,8 @@
   "greenhouse:wk": {
    "employer": "Wieden+Kennedy",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -667,8 +667,8 @@
   "greenhouse:powerdigitalmarketing": {
    "employer": "Power Digital",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 230,
    "matched": 1,
    "error": null
@@ -676,8 +676,8 @@
   "greenhouse:whalar": {
    "employer": "Whalar",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 10,
    "matched": 0,
    "error": null
@@ -685,17 +685,17 @@
   "lever:ekimetrics": {
    "employer": "Ekimetrics",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 29,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 27,
    "matched": 0,
    "error": null
   },
   "lever:anomaly": {
    "employer": "Anomaly",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 2,
    "matched": 0,
    "error": null
@@ -703,8 +703,8 @@
   "ashby:jellyfish": {
    "employer": "Jellyfish",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -712,17 +712,17 @@
   "smartrecruiters:NBCUniversal3": {
    "employer": "NBCUniversal",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 545,
-   "matched": 10,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 539,
+   "matched": 7,
    "error": null
   },
   "greenhouse:thenewyorktimes": {
    "employer": "The New York Times",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 119,
    "matched": 0,
    "error": null
@@ -730,8 +730,8 @@
   "greenhouse:voxmedia": {
    "employer": "Vox Media",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 23,
    "matched": 0,
    "error": null
@@ -739,8 +739,8 @@
   "greenhouse:buzzfeed": {
    "employer": "BuzzFeed",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 4,
    "matched": 0,
    "error": null
@@ -748,8 +748,8 @@
   "greenhouse:a24": {
    "employer": "A24",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 9,
    "matched": 0,
    "error": null
@@ -757,8 +757,8 @@
   "greenhouse:insider": {
    "employer": "Insider",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 7,
    "matched": 1,
    "error": null
@@ -766,8 +766,8 @@
   "greenhouse:hearst": {
    "employer": "Hearst",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 404,
    "matched": 0,
    "error": null
@@ -775,8 +775,8 @@
   "greenhouse:pmc": {
    "employer": "Penske Media",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 27,
    "matched": 0,
    "error": null
@@ -784,8 +784,8 @@
   "greenhouse:axios": {
    "employer": "Axios",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 29,
    "matched": 0,
    "error": null
@@ -793,8 +793,8 @@
   "greenhouse:barstoolsports": {
    "employer": "Barstool Sports",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -802,8 +802,8 @@
   "greenhouse:seatgeek": {
    "employer": "SeatGeek",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 38,
    "matched": 0,
    "error": null
@@ -811,17 +811,17 @@
   "greenhouse:roku": {
    "employer": "Roku",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 92,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 88,
    "matched": 1,
    "error": null
   },
   "greenhouse:fubotv": {
    "employer": "Fubo",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 5,
    "matched": 0,
    "error": null
@@ -829,17 +829,17 @@
   "greenhouse:roblox": {
    "employer": "Roblox",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 259,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 257,
    "matched": 0,
    "error": null
   },
   "greenhouse:epicgames": {
    "employer": "Epic Games",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 138,
    "matched": 0,
    "error": null
@@ -847,8 +847,8 @@
   "greenhouse:riotgames": {
    "employer": "Riot Games",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 198,
    "matched": 0,
    "error": null
@@ -856,8 +856,8 @@
   "greenhouse:taketwo": {
    "employer": "Take-Two Interactive",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 33,
    "matched": 0,
    "error": null
@@ -865,8 +865,8 @@
   "greenhouse:fanduel": {
    "employer": "FanDuel",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 109,
    "matched": 0,
    "error": null
@@ -874,17 +874,17 @@
   "greenhouse:feverup": {
    "employer": "Fever",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 578,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 599,
    "matched": 0,
    "error": null
   },
   "greenhouse:philadelphiaeagles": {
    "employer": "Philadelphia Eagles",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 1,
    "matched": 0,
    "error": null
@@ -892,17 +892,17 @@
   "lever:spotify": {
    "employer": "Spotify",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 97,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 98,
    "matched": 0,
    "error": null
   },
   "lever:Complex": {
    "employer": "Complex",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 30,
    "matched": 0,
    "error": null
@@ -910,8 +910,8 @@
   "lever:theathletic": {
    "employer": "The Athletic",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 8,
    "matched": 0,
    "error": null
@@ -919,8 +919,8 @@
   "lever:morningbrew": {
    "employer": "Morning Brew",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 9,
    "matched": 0,
    "error": null
@@ -928,8 +928,8 @@
   "ashby:patreon": {
    "employer": "Patreon",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 21,
    "matched": 0,
    "error": null
@@ -937,8 +937,8 @@
   "ashby:substack": {
    "employer": "Substack",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 20,
    "matched": 0,
    "error": null
@@ -946,8 +946,8 @@
   "greenhouse:sothebys": {
    "employer": "Sotheby's",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 69,
    "matched": 1,
    "error": null
@@ -955,35 +955,35 @@
   "greenhouse:mongodb": {
    "employer": "MongoDB",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 426,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 424,
    "matched": 0,
    "error": null
   },
   "greenhouse:datadog": {
    "employer": "Datadog",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 391,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 392,
    "matched": 0,
    "error": null
   },
   "greenhouse:braze": {
    "employer": "Braze",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 351,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 357,
    "matched": 0,
    "error": null
   },
   "greenhouse:attentive": {
    "employer": "Attentive",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 29,
    "matched": 0,
    "error": null
@@ -991,17 +991,17 @@
   "greenhouse:klaviyo": {
    "employer": "Klaviyo",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 123,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 124,
    "matched": 0,
    "error": null
   },
   "greenhouse:justworks": {
    "employer": "Justworks",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 100,
    "matched": 0,
    "error": null
@@ -1009,8 +1009,8 @@
   "greenhouse:yext": {
    "employer": "Yext",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 35,
    "matched": 0,
    "error": null
@@ -1018,8 +1018,8 @@
   "greenhouse:squarespace": {
    "employer": "Squarespace",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 20,
    "matched": 0,
    "error": null
@@ -1027,17 +1027,17 @@
   "greenhouse:pinterest": {
    "employer": "Pinterest",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 166,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 165,
    "matched": 0,
    "error": null
   },
   "greenhouse:reddit": {
    "employer": "Reddit",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 149,
    "matched": 0,
    "error": null
@@ -1045,8 +1045,8 @@
   "greenhouse:discord": {
    "employer": "Discord",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 30,
    "matched": 0,
    "error": null
@@ -1054,17 +1054,17 @@
   "greenhouse:figma": {
    "employer": "Figma",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 141,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 140,
    "matched": 0,
    "error": null
   },
   "greenhouse:duolingo": {
    "employer": "Duolingo",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 54,
    "matched": 0,
    "error": null
@@ -1072,17 +1072,17 @@
   "greenhouse:later": {
    "employer": "Later",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 35,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 34,
    "matched": 0,
    "error": null
   },
   "greenhouse:ziprecruiter": {
    "employer": "ZipRecruiter",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 52,
    "matched": 0,
    "error": null
@@ -1090,8 +1090,8 @@
   "greenhouse:airbnb": {
    "employer": "Airbnb",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 200,
    "matched": 0,
    "error": null
@@ -1099,17 +1099,17 @@
   "greenhouse:zocdoc": {
    "employer": "Zocdoc",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 64,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 63,
    "matched": 0,
    "error": null
   },
   "greenhouse:oscar": {
    "employer": "Oscar Health",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 178,
    "matched": 0,
    "error": null
@@ -1117,8 +1117,8 @@
   "greenhouse:flatironhealth": {
    "employer": "Flatiron Health",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 22,
    "matched": 0,
    "error": null
@@ -1126,17 +1126,17 @@
   "greenhouse:hellofresh": {
    "employer": "HelloFresh",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
-   "rawCount": 356,
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
+   "rawCount": 354,
    "matched": 0,
    "error": null
   },
   "greenhouse:sweetgreen": {
    "employer": "Sweetgreen",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 70,
    "matched": 0,
    "error": null
@@ -1144,8 +1144,8 @@
   "greenhouse:olipop": {
    "employer": "Olipop",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 15,
    "matched": 0,
    "error": null
@@ -1153,8 +1153,8 @@
   "greenhouse:misfitsmarket": {
    "employer": "Misfits Market",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 43,
    "matched": 0,
    "error": null
@@ -1162,8 +1162,8 @@
   "greenhouse:instacart": {
    "employer": "Instacart",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 97,
    "matched": 0,
    "error": null
@@ -1171,8 +1171,8 @@
   "greenhouse:peloton": {
    "employer": "Peloton",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 40,
    "matched": 0,
    "error": null
@@ -1180,8 +1180,8 @@
   "smartrecruiters:Equinox": {
    "employer": "Equinox",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 790,
    "matched": 0,
    "error": null
@@ -1189,8 +1189,8 @@
   "ashby:away": {
    "employer": "Away",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 26,
    "matched": 0,
    "error": null
@@ -1198,8 +1198,8 @@
   "ashby:brooklinen": {
    "employer": "Brooklinen",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 7,
    "matched": 0,
    "error": null
@@ -1207,8 +1207,8 @@
   "ashby:notion": {
    "employer": "Notion",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 174,
    "matched": 0,
    "error": null
@@ -1216,8 +1216,8 @@
   "lever:palantir": {
    "employer": "Palantir",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 305,
    "matched": 0,
    "error": null
@@ -1225,8 +1225,8 @@
   "lever:standtogether": {
    "employer": "Stand Together",
    "ok": true,
-   "lastAttempt": "2026-11-27T13:08:15.764Z",
-   "lastSuccess": "2026-11-27T13:08:15.764Z",
+   "lastAttempt": "2026-11-28T14:03:09.019Z",
+   "lastSuccess": "2026-11-28T14:03:09.019Z",
    "rawCount": 129,
    "matched": 0,
    "error": null
@@ -1278,7 +1278,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:49:21.544Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1331,8 +1331,8 @@
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
    "lastSeenAt": "2026-11-27T13:08:15.764Z",
-   "status": "active",
-   "closedAt": null
+   "status": "closed",
+   "closedAt": "2026-11-28T14:03:09.019Z"
   },
   {
    "id": "1otw2c4",
@@ -1383,8 +1383,8 @@
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
    "lastSeenAt": "2026-11-27T13:08:15.764Z",
-   "status": "active",
-   "closedAt": null
+   "status": "closed",
+   "closedAt": "2026-11-28T14:03:09.019Z"
   },
   {
    "id": "1t8rltf",
@@ -1434,7 +1434,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1487,7 +1487,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1540,7 +1540,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1593,7 +1593,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1646,7 +1646,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1698,7 +1698,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1750,7 +1750,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1805,8 +1805,8 @@
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
    "lastSeenAt": "2026-11-27T13:08:15.764Z",
-   "status": "active",
-   "closedAt": null
+   "status": "closed",
+   "closedAt": "2026-11-28T14:03:09.019Z"
   },
   {
    "id": "09s4ovb",
@@ -1853,7 +1853,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1903,7 +1903,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -1951,7 +1951,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -2003,7 +2003,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:49:21.544Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -2053,7 +2053,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:49:21.544Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   },
@@ -2103,7 +2103,7 @@
     }
    ],
    "firstSeenAt": "2026-11-23T21:47:40.592Z",
-   "lastSeenAt": "2026-11-27T13:08:15.764Z",
+   "lastSeenAt": "2026-11-28T14:03:09.019Z",
    "status": "active",
    "closedAt": null
   }
